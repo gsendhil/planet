@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="Suite" >
+	<parameter name="browsername" value="Chrome"></parameter>
+	<listeners>
+		<listener
+			class-name="com.planet.qa.listeners.TestNGCustomListeners" />
+		</listeners>
+	 
+	<test thread-count="5" name="Shopping Cart">
+		<parameter name="browsername" value="Chrome"></parameter>
+		<classes>
+			<class name="com.planet.qa.cucumber.runners.RunCuke_LoginValidation" />
+		</classes>
+	</test>
+</suite> <!-- Suite -->
+<!-- parallel="tests" -->

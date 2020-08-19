@@ -1,0 +1,896 @@
+2020-05-04 19:14:00.526 Eyes: [VERBOSE] {} [1] com.applitools.eyes.selenium.wrappers.EyesWebDriver.<init>(): Driver session is 41903fde83b034dbc52301d1ac57588e
+2020-05-04 19:14:00.527 Eyes: [LOG    ] {} [1] com.applitools.eyes.EyesBase.logOpenBase(): Eyes server URL is 'https://eyesapi.applitools.com'
+2020-05-04 19:14:00.527 Eyes: [VERBOSE] {} [1] com.applitools.eyes.EyesBase.logOpenBase(): Timeout = '300000'
+2020-05-04 19:14:00.527 Eyes: [LOG    ] {} [1] com.applitools.eyes.EyesBase.logOpenBase(): matchTimeout = '2000' 
+2020-05-04 19:14:00.527 Eyes: [LOG    ] {} [1] com.applitools.eyes.EyesBase.logOpenBase(): Default match settings = 'Match level: STRICT, Exact match settings: null' 
+2020-05-04 19:14:00.527 Eyes: [LOG    ] {} [1] com.applitools.eyes.EyesBase.logOpenBase(): FailureReports = 'ON_CLOSE' 
+2020-05-04 19:14:00.528 Eyes: [LOG    ] {} [1] com.applitools.eyes.EyesBase.ensureRunningSession(): No running session, calling start session...
+2020-05-04 19:14:00.528 Eyes: [VERBOSE] {} [1] com.applitools.eyes.EyesBase.startSession(): startSession()
+2020-05-04 19:14:00.540 Eyes: [VERBOSE] {} [1] com.applitools.eyes.selenium.wrappers.EyesWebDriver.getUserAgent(): user agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36
+2020-05-04 19:14:00.568 Eyes: [VERBOSE] {} [1] com.applitools.eyes.selenium.positioning.ScrollPositionProvider.<init>(): creating ScrollPositionProvider
+2020-05-04 19:14:00.569 Eyes: [VERBOSE] {} [1] com.applitools.eyes.selenium.wrappers.EyesTargetLocator.defaultContent(): enter
+2020-05-04 19:14:01.279 Eyes: [VERBOSE] {} [1] com.applitools.eyes.selenium.wrappers.EyesTargetLocator.defaultContent(): Done!
+2020-05-04 19:14:01.280 Eyes: [VERBOSE] {} [1] com.applitools.eyes.selenium.EyesSeleniumUtils.setViewportSize(): setViewportSize(1280x566)
+2020-05-04 19:14:01.292 Eyes: [VERBOSE] {} [1] com.applitools.eyes.selenium.EyesSeleniumUtils.getViewportSize(): scriptResult result = [1280, 566]
+2020-05-04 19:14:01.292 Eyes: [VERBOSE] {} [1] com.applitools.eyes.selenium.EyesSeleniumUtils.setViewportSize(): Initial viewport size:1280x566
+2020-05-04 19:14:01.292 Eyes: [VERBOSE] {} [1] com.applitools.eyes.selenium.EyesSeleniumUtils.setViewportSize(): Required size already set.
+2020-05-04 19:14:01.308 Eyes: [VERBOSE] {} [1] com.applitools.eyes.selenium.wrappers.EyesWebDriver.getUserAgent(): user agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36
+2020-05-04 19:14:01.321 Eyes: [VERBOSE] {} [1] com.applitools.eyes.selenium.positioning.ScrollPositionProvider.<init>(): creating ScrollPositionProvider
+2020-05-04 19:14:01.321 Eyes: [VERBOSE] {} [1] com.applitools.eyes.selenium.wrappers.EyesTargetLocator.frames(): enter
+2020-05-04 19:14:01.322 Eyes: [VERBOSE] {} [1] com.applitools.eyes.selenium.wrappers.EyesTargetLocator.defaultContent(): enter
+2020-05-04 19:14:01.330 Eyes: [VERBOSE] {} [1] com.applitools.eyes.selenium.wrappers.EyesTargetLocator.defaultContent(): Done!
+2020-05-04 19:14:01.331 Eyes: [VERBOSE] {} [1] com.applitools.eyes.selenium.wrappers.EyesTargetLocator.frames(): Done switching into nested frames!
+2020-05-04 19:14:01.331 Eyes: [VERBOSE] {} [1] com.applitools.eyes.EyesBase.startSession(): Batch is 'Google Home' - 2020-05-04T23:14:00Z
+2020-05-04 19:14:01.342 Eyes: [VERBOSE] {} [1] com.applitools.eyes.selenium.wrappers.EyesWebDriver.getUserAgent(): user agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36
+2020-05-04 19:14:01.342 Eyes: [LOG    ] {} [1] com.applitools.eyes.selenium.SeleniumEyes.getAppEnvironment(): No OS set, checking for mobile OS...
+2020-05-04 19:14:01.342 Eyes: [LOG    ] {} [1] com.applitools.eyes.selenium.SeleniumEyes.getAppEnvironment(): No mobile OS detected.
+2020-05-04 19:14:01.342 Eyes: [LOG    ] {} [1] com.applitools.eyes.selenium.SeleniumEyes.getAppEnvironment(): Done!
+2020-05-04 19:14:01.343 Eyes: [VERBOSE] {} [1] com.applitools.eyes.EyesBase.startSession(): Application environment is [os = ? hostingApp = ? displaySize = 1280x566]
+2020-05-04 19:14:01.351 Eyes: [VERBOSE] {} [1] com.applitools.eyes.selenium.wrappers.EyesWebDriver.getUserAgent(): user agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36
+2020-05-04 19:14:01.351 Eyes: [LOG    ] {} [1] com.applitools.eyes.selenium.SeleniumEyes.getAppEnvironment(): No OS set, checking for mobile OS...
+2020-05-04 19:14:01.352 Eyes: [LOG    ] {} [1] com.applitools.eyes.selenium.SeleniumEyes.getAppEnvironment(): No mobile OS detected.
+2020-05-04 19:14:01.352 Eyes: [LOG    ] {} [1] com.applitools.eyes.selenium.SeleniumEyes.getAppEnvironment(): Done!
+2020-05-04 19:14:01.352 Eyes: [VERBOSE] {} [1] com.applitools.eyes.EyesBase.startSession(): Starting server session...
+2020-05-04 19:14:01.352 Eyes: [VERBOSE] {} [1] com.applitools.eyes.ServerConnector.startSession(): Using Jersey2 for REST API calls.
+2020-05-04 19:14:03.657 Eyes: [VERBOSE] {} [1] com.applitools.eyes.EyesBase.startSession(): Server session ID is MDAwMDAyNTE4MTM2NjY3NTQwNDY~;MDAwMDAyNTE4MTM2NjY3NTM3ODg~
+2020-05-04 19:14:03.657 Eyes: [LOG    ] {} [1] com.applitools.eyes.EyesBase.startSession(): --- Test started - 'Google' of 'Planet' [os = ? hostingApp = ? displaySize = 1280x566]
+2020-05-04 19:14:03.657 Eyes: [LOG    ] {00000251813666753788} [1] com.applitools.eyes.EyesBase.ensureRunningSession(): Done!
+2020-05-04 19:14:03.664 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.selenium.SeleniumEyes.check(): com.applitools.eyes.selenium.Configuration@60ed12e8
+	batch = 'Google Home' - 2020-05-04T23:14:00Z
+	branchName = null
+	parentBranchName = null
+	agentId = null
+	baselineEnvName = null
+	environmentName = null
+	saveDiffs = null
+	appName = Planet
+	testName = Google
+	viewportSize = 1280x566
+	sessionType = null
+	forceFullPageScreenshot = true
+	waitBeforeScreenshots = 100
+	stitchMode = SCROLL
+	hideScrollbars = true
+	hideCaret = true
+2020-05-04 19:14:03.665 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.selenium.SeleniumEyes.check(): check("Opening browser", checkSettings) - begin
+2020-05-04 19:14:03.678 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.selenium.SeleniumEyes.createPositionProvider(): initializing position provider. stitchMode: SCROLL
+2020-05-04 19:14:03.679 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.selenium.positioning.ScrollPositionProvider.<init>(): creating ScrollPositionProvider
+2020-05-04 19:14:03.687 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.selenium.SeleniumEyes.check(): URL: https://ui.cogmento.com/
+2020-05-04 19:14:03.696 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.selenium.wrappers.EyesWebDriver.getUserAgent(): user agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36
+2020-05-04 19:14:03.697 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.selenium.positioning.ScrollPositionProvider.<init>(): creating ScrollPositionProvider
+2020-05-04 19:14:03.703 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.selenium.SeleniumEyes.tryHideScrollbars(): hiding scrollbars of element (2): EyesRemoteWebElement:[[ChromeDriver: chrome on WINDOWS (41903fde83b034dbc52301d1ac57588e)] -> tag name: html]
+2020-05-04 19:14:03.914 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.selenium.SeleniumEyes.tryHideScrollbars(): switching back to original frame
+2020-05-04 19:14:03.921 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.selenium.wrappers.EyesWebDriver.getUserAgent(): user agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36
+2020-05-04 19:14:03.922 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.selenium.positioning.ScrollPositionProvider.<init>(): creating ScrollPositionProvider
+2020-05-04 19:14:03.922 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.selenium.wrappers.EyesTargetLocator.frames(): enter
+2020-05-04 19:14:03.922 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.selenium.wrappers.EyesTargetLocator.defaultContent(): enter
+2020-05-04 19:14:03.929 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.selenium.wrappers.EyesTargetLocator.defaultContent(): Done!
+2020-05-04 19:14:03.929 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.selenium.wrappers.EyesTargetLocator.frames(): Done switching into nested frames!
+2020-05-04 19:14:03.929 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.selenium.SeleniumEyes.tryHideScrollbars(): done hiding scrollbars.
+2020-05-04 19:14:03.930 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.selenium.SeleniumEyes.check(): default case
+2020-05-04 19:14:03.930 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.selenium.wrappers.EyesTargetLocator.defaultContent(): enter
+2020-05-04 19:14:03.937 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.selenium.wrappers.EyesTargetLocator.defaultContent(): Done!
+2020-05-04 19:14:03.947 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.selenium.SeleniumEyes.createPositionProvider(): initializing position provider. stitchMode: SCROLL
+2020-05-04 19:14:03.947 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.selenium.positioning.ScrollPositionProvider.<init>(): creating ScrollPositionProvider
+2020-05-04 19:14:03.948 Eyes: [LOG    ] {00000251813666753788} [1] com.applitools.eyes.EyesBase.ensureRunningSession(): session already running.
+2020-05-04 19:14:03.948 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.EyesBase.matchWindow(): params: ([(0, 0) 0x0, SCREENSHOT_AS_IS], Opening browser, 5000)
+2020-05-04 19:14:03.948 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.MatchWindowTask.matchWindow(): retryTimeout = 5000
+2020-05-04 19:14:04.449 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.EyesBase.getAppOutputWithScreenshot(): getting screenshot...
+2020-05-04 19:14:04.449 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.selenium.SeleniumEyes.updateScalingParams(): Trying to extract device pixel ratio...
+2020-05-04 19:14:04.457 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.selenium.SeleniumEyes.updateScalingParams(): Setting web scale provider...
+2020-05-04 19:14:04.494 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.selenium.SeleniumEyes.updateScalingParams(): Device pixel ratio: 1.500000
+2020-05-04 19:14:04.495 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.selenium.SeleniumEyes.updateScalingParams(): Done!
+2020-05-04 19:14:04.504 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.selenium.wrappers.EyesWebDriver.getUserAgent(): user agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36
+2020-05-04 19:14:04.505 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.selenium.positioning.ScrollPositionProvider.<init>(): creating ScrollPositionProvider
+2020-05-04 19:14:04.505 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.selenium.wrappers.EyesTargetLocator.frames(): enter
+2020-05-04 19:14:04.505 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.selenium.wrappers.EyesTargetLocator.defaultContent(): enter
+2020-05-04 19:14:04.511 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.selenium.wrappers.EyesTargetLocator.defaultContent(): Done!
+2020-05-04 19:14:04.511 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.selenium.wrappers.EyesTargetLocator.frames(): Done switching into nested frames!
+2020-05-04 19:14:04.520 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.selenium.wrappers.EyesTargetLocator.frames(): enter
+2020-05-04 19:14:04.521 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.selenium.wrappers.EyesTargetLocator.defaultContent(): enter
+2020-05-04 19:14:04.529 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.selenium.wrappers.EyesTargetLocator.defaultContent(): Done!
+2020-05-04 19:14:04.529 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.selenium.wrappers.EyesTargetLocator.frames(): Done switching into nested frames!
+2020-05-04 19:14:04.540 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.selenium.SeleniumEyes.getFullPageScreenshot(): ForceFullPageScreenshot || stitchContent_ - enter
+2020-05-04 19:14:04.540 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.selenium.wrappers.EyesTargetLocator.frames(): enter
+2020-05-04 19:14:04.540 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.selenium.wrappers.EyesTargetLocator.defaultContent(): enter
+2020-05-04 19:14:04.546 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.selenium.wrappers.EyesTargetLocator.defaultContent(): Done!
+2020-05-04 19:14:04.546 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.selenium.wrappers.EyesTargetLocator.frames(): Done switching into nested frames!
+2020-05-04 19:14:04.546 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.selenium.positioning.ScrollPositionProvider.<init>(): creating ScrollPositionProvider
+2020-05-04 19:14:04.547 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.selenium.positioning.ScrollPositionProvider.<init>(): creating ScrollPositionProvider
+2020-05-04 19:14:04.547 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.selenium.SeleniumEyes.getFullPageScreenshot(): resetting originProvider location
+2020-05-04 19:14:04.548 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.selenium.positioning.ScrollPositionProvider.setPosition(): setting position of EyesRemoteWebElement:[[ChromeDriver: chrome on WINDOWS (41903fde83b034dbc52301d1ac57588e)] -> tag name: html] to (0, 0)
+2020-05-04 19:14:04.592 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.selenium.capture.FullPageCaptureAlgorithm.getStitchedRegion(): region: (0, 0) 1280x566, SCREENSHOT_AS_IS ; fullArea: (0, 0) 0x0, SCREENSHOT_AS_IS ; positionProvider: com.applitools.eyes.selenium.positioning.ScrollPositionProvider
+2020-05-04 19:14:04.613 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.selenium.capture.FullPageCaptureAlgorithm.getStitchedRegion(): region size: (0, 0) 1280x566, SCREENSHOT_AS_IS
+2020-05-04 19:14:04.714 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.selenium.capture.TakesScreenshotImageProvider.getImage(): Getting screenshot as base64...
+2020-05-04 19:14:05.243 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.selenium.wrappers.EyesWebDriver.normalizeRotation(): Trying to automatically normalize rotation...
+2020-05-04 19:14:05.379 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.selenium.capture.TakesScreenshotImageProvider.getImage(): Done getting base64! Creating BufferedImage...
+2020-05-04 19:14:05.405 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.selenium.ContextBasedScaleProvider.updateScaleRatio(): Calculating the scale ratio..
+2020-05-04 19:14:05.405 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.selenium.ContextBasedScaleProvider.updateScaleRatio(): Final scale ratio: 0.6666666666666666
+2020-05-04 19:14:05.406 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.selenium.capture.EyesWebDriverScreenshot.<init>(): enter
+2020-05-04 19:14:05.407 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.selenium.capture.EyesWebDriverScreenshot.<init>(): position provider: using CurrentFramePositionProvider: com.applitools.eyes.selenium.positioning.ScrollPositionProvider@26fadbaf
+2020-05-04 19:14:05.407 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.selenium.positioning.ScrollPositionProvider.getEntireSize(): enter (scrollRootElement: EyesRemoteWebElement:[[ChromeDriver: chrome on WINDOWS (41903fde83b034dbc52301d1ac57588e)] -> tag name: html])
+2020-05-04 19:14:05.418 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.selenium.positioning.ScrollPositionProvider.getEntireSize(): ScrollPositionProvider - Entire size: 1280x566
+2020-05-04 19:14:05.429 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.selenium.capture.EyesWebDriverScreenshot.<init>(): Calculating frame window...
+2020-05-04 19:14:05.430 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.selenium.capture.EyesWebDriverScreenshot.<init>(): this.frameWindow: (0, 0) 1280x566, SCREENSHOT_AS_IS ; imageSizeAsRegion: (0, 0) 1920x849, SCREENSHOT_AS_IS
+2020-05-04 19:14:05.430 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.selenium.capture.EyesWebDriverScreenshot.<init>(): updated frameWindow: (0, 0) 1280x566, SCREENSHOT_AS_IS
+2020-05-04 19:14:05.430 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.selenium.capture.EyesWebDriverScreenshot.<init>(): Done!
+2020-05-04 19:14:05.431 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.selenium.capture.FullPageCaptureAlgorithm.getRegionInScreenshot(): Creating screenshot object...
+2020-05-04 19:14:05.431 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.selenium.capture.EyesWebDriverScreenshot.<init>(): enter
+2020-05-04 19:14:05.431 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.selenium.capture.EyesWebDriverScreenshot.<init>(): position provider: using CurrentFramePositionProvider: com.applitools.eyes.selenium.positioning.ScrollPositionProvider@26fadbaf
+2020-05-04 19:14:05.432 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.selenium.positioning.ScrollPositionProvider.getEntireSize(): enter (scrollRootElement: EyesRemoteWebElement:[[ChromeDriver: chrome on WINDOWS (41903fde83b034dbc52301d1ac57588e)] -> tag name: html])
+2020-05-04 19:14:05.442 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.selenium.positioning.ScrollPositionProvider.getEntireSize(): ScrollPositionProvider - Entire size: 1280x566
+2020-05-04 19:14:05.450 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.selenium.capture.EyesWebDriverScreenshot.<init>(): Calculating frame window...
+2020-05-04 19:14:05.451 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.selenium.capture.EyesWebDriverScreenshot.<init>(): this.frameWindow: (0, 0) 1280x566, SCREENSHOT_AS_IS ; imageSizeAsRegion: (0, 0) 1920x849, SCREENSHOT_AS_IS
+2020-05-04 19:14:05.451 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.selenium.capture.EyesWebDriverScreenshot.<init>(): updated frameWindow: (0, 0) 1280x566, SCREENSHOT_AS_IS
+2020-05-04 19:14:05.451 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.selenium.capture.EyesWebDriverScreenshot.<init>(): Done!
+2020-05-04 19:14:05.451 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.selenium.capture.FullPageCaptureAlgorithm.getRegionInScreenshot(): Getting region in screenshot...
+2020-05-04 19:14:05.452 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.EyesScreenshot.convertRegionLocation(): original location: (0, 0)
+2020-05-04 19:14:05.452 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.EyesScreenshot.convertRegionLocation(): updated location: (0, 0)
+2020-05-04 19:14:05.453 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.EyesScreenshot.convertRegionLocation(): original location: (0, 0)
+2020-05-04 19:14:05.453 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.EyesScreenshot.convertRegionLocation(): updated location: (0, 0)
+2020-05-04 19:14:05.453 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.selenium.capture.FullPageCaptureAlgorithm.getRegionInScreenshot(): Region in screenshot: (0, 0) 1280x566, SCREENSHOT_AS_IS
+2020-05-04 19:14:05.454 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.selenium.capture.FullPageCaptureAlgorithm.getRegionInScreenshot(): Scaled region: (0, 0) 1920x849, SCREENSHOT_AS_IS
+2020-05-04 19:14:05.454 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.selenium.capture.FullPageCaptureAlgorithm.getRegionInScreenshot(): Region after intersect: (0, 0) 1920x849, SCREENSHOT_AS_IS
+2020-05-04 19:14:05.825 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.selenium.positioning.ScrollPositionProvider.getEntireSize(): enter (scrollRootElement: EyesRemoteWebElement:[[ChromeDriver: chrome on WINDOWS (41903fde83b034dbc52301d1ac57588e)] -> tag name: html])
+2020-05-04 19:14:05.836 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.selenium.positioning.ScrollPositionProvider.getEntireSize(): ScrollPositionProvider - Entire size: 1280x566
+2020-05-04 19:14:05.836 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.selenium.capture.FullPageCaptureAlgorithm.getStitchedRegion(): Entire size of region context: 1280x566
+2020-05-04 19:14:05.837 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.selenium.positioning.ScrollPositionProvider.setPosition(): setting position of EyesRemoteWebElement:[[ChromeDriver: chrome on WINDOWS (41903fde83b034dbc52301d1ac57588e)] -> tag name: html] to (0, 0)
+2020-05-04 19:14:05.846 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.selenium.wrappers.EyesTargetLocator.frames(): enter
+2020-05-04 19:14:05.846 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.selenium.wrappers.EyesTargetLocator.defaultContent(): enter
+2020-05-04 19:14:05.853 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.selenium.wrappers.EyesTargetLocator.defaultContent(): Done!
+2020-05-04 19:14:05.853 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.selenium.wrappers.EyesTargetLocator.frames(): Done switching into nested frames!
+2020-05-04 19:14:05.853 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.selenium.capture.EyesWebDriverScreenshot.<init>(): enter
+2020-05-04 19:14:05.853 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.selenium.capture.EyesWebDriverScreenshot.<init>(): position provider: using CurrentFramePositionProvider: com.applitools.eyes.selenium.positioning.ScrollPositionProvider@26fadbaf
+2020-05-04 19:14:05.854 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.selenium.positioning.ScrollPositionProvider.getEntireSize(): enter (scrollRootElement: EyesRemoteWebElement:[[ChromeDriver: chrome on WINDOWS (41903fde83b034dbc52301d1ac57588e)] -> tag name: html])
+2020-05-04 19:14:05.861 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.selenium.positioning.ScrollPositionProvider.getEntireSize(): ScrollPositionProvider - Entire size: 1280x566
+2020-05-04 19:14:05.869 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.selenium.capture.EyesWebDriverScreenshot.<init>(): Calculating frame window...
+2020-05-04 19:14:05.870 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.selenium.capture.EyesWebDriverScreenshot.<init>(): this.frameWindow: (0, 0) 1280x566, SCREENSHOT_AS_IS ; imageSizeAsRegion: (0, 0) 1280x566, SCREENSHOT_AS_IS
+2020-05-04 19:14:05.870 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.selenium.capture.EyesWebDriverScreenshot.<init>(): updated frameWindow: (0, 0) 1280x566, SCREENSHOT_AS_IS
+2020-05-04 19:14:05.870 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.selenium.capture.EyesWebDriverScreenshot.<init>(): Done!
+2020-05-04 19:14:05.870 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.selenium.wrappers.EyesTargetLocator.frames(): enter
+2020-05-04 19:14:05.870 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.selenium.wrappers.EyesTargetLocator.defaultContent(): enter
+2020-05-04 19:14:05.878 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.selenium.wrappers.EyesTargetLocator.defaultContent(): Done!
+2020-05-04 19:14:05.878 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.selenium.wrappers.EyesTargetLocator.frames(): Done switching into nested frames!
+2020-05-04 19:14:05.902 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.selenium.positioning.ScrollPositionProvider.<init>(): creating ScrollPositionProvider
+2020-05-04 19:14:05.914 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.selenium.positioning.ScrollPositionProvider.setPosition(): setting position of EyesRemoteWebElement:[[ChromeDriver: chrome on WINDOWS (41903fde83b034dbc52301d1ac57588e)] -> tag name: html] to (0, 0)
+2020-05-04 19:14:05.923 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.selenium.capture.DomCapture.getFrameDom(): Trying to get DOM from driver
+2020-05-04 19:14:06.678 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.selenium.capture.DomCapture.parseScriptResult(): missing css count: 3
+2020-05-04 19:14:06.678 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.selenium.capture.DomCapture.parseScriptResult(): missing frames count: 2
+2020-05-04 19:14:06.679 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.selenium.capture.DomCapture.fetchCssFiles(): DomCapture.fetchCssFiles() downloading
+2020-05-04 19:14:06.682 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.selenium.capture.DomCapture.downloadCss(): Given URL to download: https://fonts.googleapis.com/css?family=Lato:400,700,400italic,700italic&subset=latin
+2020-05-04 19:14:06.684 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.ServerConnector.downloadString(): Firing async GET
+2020-05-04 19:14:06.699 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.selenium.capture.DomCapture.fetchCssFiles(): DomCapture.fetchCssFiles() downloading
+2020-05-04 19:14:06.699 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.selenium.capture.DomCapture.downloadCss(): Given URL to download: https://ui.cogmento.com/fonts/fonts.css
+2020-05-04 19:14:06.700 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.ServerConnector.downloadString(): Firing async GET
+2020-05-04 19:14:06.702 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.selenium.capture.DomCapture.fetchCssFiles(): DomCapture.fetchCssFiles() downloading
+2020-05-04 19:14:06.702 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.selenium.capture.DomCapture.downloadCss(): Given URL to download: https://onesignal.com/sdks/OneSignalSDKStyles.css?v=1
+2020-05-04 19:14:06.703 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.ServerConnector.downloadString(): Firing async GET
+2020-05-04 19:14:06.715 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.selenium.wrappers.EyesWebDriver.getUserAgent(): user agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36
+2020-05-04 19:14:06.715 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.selenium.positioning.ScrollPositionProvider.<init>(): creating ScrollPositionProvider
+2020-05-04 19:14:06.715 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.selenium.capture.DomCapture.recurseFrames(): Switching to frame line :HTML[1]/BODY[1]/IFRAME[1]
+2020-05-04 19:14:06.727 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.selenium.capture.DomCapture.recurseFrames(): switching to specific frame : HTML[1]/BODY[1]/IFRAME[1]
+2020-05-04 19:14:06.767 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.selenium.capture.DomCapture.recurseFrames(): Switched to frame(HTML[1]/BODY[1]/IFRAME[1]) with src(https://platform.twitter.com/widgets/widget_iframe.c63890edc4243ee77048d507b181eeec.html?origin=https%3A%2F%2Fui.cogmento.com)
+2020-05-04 19:14:06.767 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.selenium.wrappers.EyesTargetLocator.frame(): Making preparations...
+2020-05-04 19:14:06.838 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.selenium.frames.Frame.<init>(): Frame(logger, reference, (0, 0), 300x150, 0x0, (0, 0))
+2020-05-04 19:14:06.838 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.selenium.wrappers.EyesTargetLocator.frame(): Done! Switching to frame...
+2020-05-04 19:14:06.871 Eyes: [VERBOSE] {00000251813666753788} [25] com.applitools.eyes.selenium.capture.DomCapture$2.onDownloadComplete(): Download Complete
+2020-05-04 19:14:06.872 Eyes: [VERBOSE] {00000251813666753788} [25] com.applitools.eyes.selenium.capture.DomCapture$1.onDownloadComplete(): DomCapture.onDownloadComplete  - finished
+2020-05-04 19:14:06.876 Eyes: [VERBOSE] {00000251813666753788} [27] com.applitools.eyes.selenium.capture.DomCapture$2.onDownloadComplete(): Download Complete
+2020-05-04 19:14:06.876 Eyes: [VERBOSE] {00000251813666753788} [27] com.applitools.eyes.selenium.capture.DomCapture$1.onDownloadComplete(): DomCapture.onDownloadComplete  - finished
+2020-05-04 19:14:06.886 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.selenium.wrappers.EyesTargetLocator.frame(): Done!
+2020-05-04 19:14:06.899 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.selenium.capture.DomCapture.getFrameDom(): Trying to get DOM from driver
+2020-05-04 19:14:06.951 Eyes: [VERBOSE] {00000251813666753788} [26] com.applitools.eyes.selenium.capture.DomCapture$2.onDownloadComplete(): Download Complete
+2020-05-04 19:14:06.952 Eyes: [VERBOSE] {00000251813666753788} [26] com.applitools.eyes.selenium.capture.DomCapture$1.onDownloadComplete(): DomCapture.onDownloadComplete  - finished
+2020-05-04 19:14:06.962 Eyes: [VERBOSE] {00000251813666753788} [26] com.applitools.eyes.selenium.capture.DomCapture$2.onDownloadComplete(): cssPhaser.arriveAndDeregister(); https://ui.cogmento.com/fonts/fonts.css
+2020-05-04 19:14:06.963 Eyes: [VERBOSE] {00000251813666753788} [26] com.applitools.eyes.selenium.capture.DomCapture$2.onDownloadComplete(): current missing - 2
+2020-05-04 19:14:06.963 Eyes: [VERBOSE] {00000251813666753788} [26] com.applitools.eyes.ServerConnector$2.completed(): response finished
+2020-05-04 19:14:07.063 Eyes: [VERBOSE] {00000251813666753788} [25] com.applitools.eyes.selenium.capture.DomCapture$2.onDownloadComplete(): cssPhaser.arriveAndDeregister(); https://fonts.googleapis.com/css?family=Lato:400,700,400italic,700italic&subset=latin
+2020-05-04 19:14:07.064 Eyes: [VERBOSE] {00000251813666753788} [25] com.applitools.eyes.selenium.capture.DomCapture$2.onDownloadComplete(): current missing - 1
+2020-05-04 19:14:07.064 Eyes: [VERBOSE] {00000251813666753788} [25] com.applitools.eyes.ServerConnector$2.completed(): response finished
+2020-05-04 19:14:07.168 Eyes: [VERBOSE] {00000251813666753788} [27] com.applitools.eyes.selenium.capture.DomCapture$2.onDownloadComplete(): cssPhaser.arriveAndDeregister(); https://onesignal.com/sdks/OneSignalSDKStyles.css?v=1
+2020-05-04 19:14:07.168 Eyes: [VERBOSE] {00000251813666753788} [27] com.applitools.eyes.selenium.capture.DomCapture$2.onDownloadComplete(): current missing - 0
+2020-05-04 19:14:07.169 Eyes: [VERBOSE] {00000251813666753788} [27] com.applitools.eyes.ServerConnector$2.completed(): response finished
+2020-05-04 19:14:07.346 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.selenium.capture.DomCapture.parseScriptResult(): missing css count: 0
+2020-05-04 19:14:07.346 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.selenium.capture.DomCapture.parseScriptResult(): missing frames count: 0
+2020-05-04 19:14:07.355 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.selenium.wrappers.EyesWebDriver.getUserAgent(): user agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36
+2020-05-04 19:14:07.355 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.selenium.positioning.ScrollPositionProvider.<init>(): creating ScrollPositionProvider
+2020-05-04 19:14:07.356 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.selenium.wrappers.EyesTargetLocator.frames(): enter
+2020-05-04 19:14:07.356 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.selenium.wrappers.EyesTargetLocator.defaultContent(): enter
+2020-05-04 19:14:07.356 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.selenium.wrappers.EyesTargetLocator.defaultContent(): Making preparations...
+2020-05-04 19:14:07.356 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.selenium.wrappers.EyesTargetLocator.defaultContent(): Done! Switching to default content...
+2020-05-04 19:14:07.364 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.selenium.wrappers.EyesTargetLocator.defaultContent(): Done!
+2020-05-04 19:14:07.364 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.selenium.wrappers.EyesTargetLocator.frames(): Done switching into nested frames!
+2020-05-04 19:14:07.364 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.selenium.capture.DomCapture.recurseFrames(): Switching to frame line :HTML[1]/BODY[1]/IFRAME[2]
+2020-05-04 19:14:07.370 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.selenium.capture.DomCapture.recurseFrames(): switching to specific frame : HTML[1]/BODY[1]/IFRAME[2]
+2020-05-04 19:14:07.402 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.selenium.capture.DomCapture.recurseFrames(): Switched to frame(HTML[1]/BODY[1]/IFRAME[2]) with src(https://onesignal.com/webPushAnalytics)
+2020-05-04 19:14:07.402 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.selenium.wrappers.EyesTargetLocator.frame(): Making preparations...
+2020-05-04 19:14:07.447 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.selenium.frames.Frame.<init>(): Frame(logger, reference, (2, 2), 304x154, 0x0, (0, 0))
+2020-05-04 19:14:07.447 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.selenium.wrappers.EyesTargetLocator.frame(): Done! Switching to frame...
+2020-05-04 19:14:07.504 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.selenium.wrappers.EyesTargetLocator.frame(): Done!
+2020-05-04 19:14:07.533 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.selenium.capture.DomCapture.getFrameDom(): Trying to get DOM from driver
+2020-05-04 19:14:07.961 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.selenium.capture.DomCapture.parseScriptResult(): missing css count: 0
+2020-05-04 19:14:07.962 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.selenium.capture.DomCapture.parseScriptResult(): missing frames count: 0
+2020-05-04 19:14:07.969 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.selenium.wrappers.EyesWebDriver.getUserAgent(): user agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36
+2020-05-04 19:14:07.970 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.selenium.positioning.ScrollPositionProvider.<init>(): creating ScrollPositionProvider
+2020-05-04 19:14:07.970 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.selenium.wrappers.EyesTargetLocator.frames(): enter
+2020-05-04 19:14:07.971 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.selenium.wrappers.EyesTargetLocator.defaultContent(): enter
+2020-05-04 19:14:07.971 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.selenium.wrappers.EyesTargetLocator.defaultContent(): Making preparations...
+2020-05-04 19:14:07.971 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.selenium.wrappers.EyesTargetLocator.defaultContent(): Done! Switching to default content...
+2020-05-04 19:14:07.978 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.selenium.wrappers.EyesTargetLocator.defaultContent(): Done!
+2020-05-04 19:14:07.978 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.selenium.wrappers.EyesTargetLocator.frames(): Done switching into nested frames!
+2020-05-04 19:14:08.016 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.selenium.wrappers.EyesWebDriver.getUserAgent(): user agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36
+2020-05-04 19:14:08.016 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.selenium.positioning.ScrollPositionProvider.<init>(): creating ScrollPositionProvider
+2020-05-04 19:14:08.016 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.selenium.wrappers.EyesTargetLocator.frames(): enter
+2020-05-04 19:14:08.017 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.selenium.wrappers.EyesTargetLocator.defaultContent(): enter
+2020-05-04 19:14:08.023 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.selenium.wrappers.EyesTargetLocator.defaultContent(): Done!
+2020-05-04 19:14:08.024 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.selenium.wrappers.EyesTargetLocator.frames(): Done switching into nested frames!
+2020-05-04 19:14:08.030 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.selenium.positioning.ScrollPositionProvider.setPosition(): setting position of EyesRemoteWebElement:[[ChromeDriver: chrome on WINDOWS (41903fde83b034dbc52301d1ac57588e)] -> tag name: html] to (0, 0)
+2020-05-04 19:14:08.045 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.selenium.wrappers.EyesWebDriver.getUserAgent(): user agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36
+2020-05-04 19:14:08.046 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.selenium.positioning.ScrollPositionProvider.<init>(): creating ScrollPositionProvider
+2020-05-04 19:14:08.046 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.selenium.wrappers.EyesTargetLocator.frames(): enter
+2020-05-04 19:14:08.046 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.selenium.wrappers.EyesTargetLocator.defaultContent(): enter
+2020-05-04 19:14:08.053 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.selenium.wrappers.EyesTargetLocator.defaultContent(): Done!
+2020-05-04 19:14:08.053 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.selenium.wrappers.EyesTargetLocator.frames(): Done switching into nested frames!
+2020-05-04 19:14:08.881 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.EyesBase.tryCaptureAndPostDom(): domUrl: https://eyesapi.applitools.com/api/sessions/running/data/se%7e35a880fc-1302-48ba-8865-e284d73e7661?accessKey=gRtTfcnBs3EsKcaA8iOzmcj5ySXfzz2pzWXZLJntgjw110
+2020-05-04 19:14:08.881 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.selenium.wrappers.EyesTargetLocator.frames(): enter
+2020-05-04 19:14:08.882 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.selenium.wrappers.EyesTargetLocator.defaultContent(): enter
+2020-05-04 19:14:08.887 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.selenium.wrappers.EyesTargetLocator.defaultContent(): Done!
+2020-05-04 19:14:08.887 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.selenium.wrappers.EyesTargetLocator.frames(): Done switching into nested frames!
+2020-05-04 19:14:08.888 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.selenium.positioning.ScrollPositionProvider.setPosition(): setting position of EyesRemoteWebElement:[[ChromeDriver: chrome on WINDOWS (41903fde83b034dbc52301d1ac57588e)] -> tag name: html] to (0, 0)
+2020-05-04 19:14:08.896 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.selenium.wrappers.EyesTargetLocator.frames(): enter
+2020-05-04 19:14:08.896 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.selenium.wrappers.EyesTargetLocator.defaultContent(): enter
+2020-05-04 19:14:08.902 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.selenium.wrappers.EyesTargetLocator.defaultContent(): Done!
+2020-05-04 19:14:08.903 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.selenium.wrappers.EyesTargetLocator.frames(): Done switching into nested frames!
+2020-05-04 19:14:08.903 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.EyesBase.getAppOutputWithScreenshot(): Done getting screenshot!
+2020-05-04 19:14:08.903 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.EyesBase.getAppOutputWithScreenshot(): Compressing screenshot...
+2020-05-04 19:14:08.955 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.EyesBase.getAppOutputWithScreenshot(): Done! Getting title...
+2020-05-04 19:14:08.963 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.EyesBase.getAppOutputWithScreenshot(): Done!
+2020-05-04 19:14:08.965 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.EyesBase.getAppOutputWithScreenshot(): Done!
+2020-05-04 19:14:09.798 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.EyesBase.getAppOutputWithScreenshot(): getting screenshot...
+2020-05-04 19:14:09.805 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.selenium.wrappers.EyesWebDriver.getUserAgent(): user agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36
+2020-05-04 19:14:09.805 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.selenium.positioning.ScrollPositionProvider.<init>(): creating ScrollPositionProvider
+2020-05-04 19:14:09.805 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.selenium.wrappers.EyesTargetLocator.frames(): enter
+2020-05-04 19:14:09.805 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.selenium.wrappers.EyesTargetLocator.defaultContent(): enter
+2020-05-04 19:14:09.812 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.selenium.wrappers.EyesTargetLocator.defaultContent(): Done!
+2020-05-04 19:14:09.812 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.selenium.wrappers.EyesTargetLocator.frames(): Done switching into nested frames!
+2020-05-04 19:14:09.820 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.selenium.wrappers.EyesTargetLocator.frames(): enter
+2020-05-04 19:14:09.820 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.selenium.wrappers.EyesTargetLocator.defaultContent(): enter
+2020-05-04 19:14:09.826 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.selenium.wrappers.EyesTargetLocator.defaultContent(): Done!
+2020-05-04 19:14:09.826 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.selenium.wrappers.EyesTargetLocator.frames(): Done switching into nested frames!
+2020-05-04 19:14:09.833 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.selenium.SeleniumEyes.getFullPageScreenshot(): ForceFullPageScreenshot || stitchContent_ - enter
+2020-05-04 19:14:09.833 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.selenium.wrappers.EyesTargetLocator.frames(): enter
+2020-05-04 19:14:09.833 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.selenium.wrappers.EyesTargetLocator.defaultContent(): enter
+2020-05-04 19:14:09.839 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.selenium.wrappers.EyesTargetLocator.defaultContent(): Done!
+2020-05-04 19:14:09.839 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.selenium.wrappers.EyesTargetLocator.frames(): Done switching into nested frames!
+2020-05-04 19:14:09.839 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.selenium.positioning.ScrollPositionProvider.<init>(): creating ScrollPositionProvider
+2020-05-04 19:14:09.839 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.selenium.positioning.ScrollPositionProvider.<init>(): creating ScrollPositionProvider
+2020-05-04 19:14:09.840 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.selenium.SeleniumEyes.getFullPageScreenshot(): resetting originProvider location
+2020-05-04 19:14:09.840 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.selenium.positioning.ScrollPositionProvider.setPosition(): setting position of EyesRemoteWebElement:[[ChromeDriver: chrome on WINDOWS (41903fde83b034dbc52301d1ac57588e)] -> tag name: html] to (0, 0)
+2020-05-04 19:14:09.866 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.selenium.capture.FullPageCaptureAlgorithm.getStitchedRegion(): region: (0, 0) 1280x566, SCREENSHOT_AS_IS ; fullArea: (0, 0) 0x0, SCREENSHOT_AS_IS ; positionProvider: com.applitools.eyes.selenium.positioning.ScrollPositionProvider
+2020-05-04 19:14:09.881 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.selenium.capture.FullPageCaptureAlgorithm.getStitchedRegion(): region size: (0, 0) 1280x566, SCREENSHOT_AS_IS
+2020-05-04 19:14:09.981 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.selenium.capture.TakesScreenshotImageProvider.getImage(): Getting screenshot as base64...
+2020-05-04 19:14:10.380 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.selenium.wrappers.EyesWebDriver.normalizeRotation(): Trying to automatically normalize rotation...
+2020-05-04 19:14:10.448 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.selenium.capture.TakesScreenshotImageProvider.getImage(): Done getting base64! Creating BufferedImage...
+2020-05-04 19:14:10.466 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.selenium.capture.EyesWebDriverScreenshot.<init>(): enter
+2020-05-04 19:14:10.466 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.selenium.capture.EyesWebDriverScreenshot.<init>(): position provider: using CurrentFramePositionProvider: com.applitools.eyes.selenium.positioning.ScrollPositionProvider@26fadbaf
+2020-05-04 19:14:10.466 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.selenium.positioning.ScrollPositionProvider.getEntireSize(): enter (scrollRootElement: EyesRemoteWebElement:[[ChromeDriver: chrome on WINDOWS (41903fde83b034dbc52301d1ac57588e)] -> tag name: html])
+2020-05-04 19:14:10.473 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.selenium.positioning.ScrollPositionProvider.getEntireSize(): ScrollPositionProvider - Entire size: 1280x566
+2020-05-04 19:14:10.479 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.selenium.capture.EyesWebDriverScreenshot.<init>(): Calculating frame window...
+2020-05-04 19:14:10.479 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.selenium.capture.EyesWebDriverScreenshot.<init>(): this.frameWindow: (0, 0) 1280x566, SCREENSHOT_AS_IS ; imageSizeAsRegion: (0, 0) 1920x849, SCREENSHOT_AS_IS
+2020-05-04 19:14:10.479 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.selenium.capture.EyesWebDriverScreenshot.<init>(): updated frameWindow: (0, 0) 1280x566, SCREENSHOT_AS_IS
+2020-05-04 19:14:10.479 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.selenium.capture.EyesWebDriverScreenshot.<init>(): Done!
+2020-05-04 19:14:10.480 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.selenium.capture.FullPageCaptureAlgorithm.getRegionInScreenshot(): Creating screenshot object...
+2020-05-04 19:14:10.480 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.selenium.capture.EyesWebDriverScreenshot.<init>(): enter
+2020-05-04 19:14:10.480 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.selenium.capture.EyesWebDriverScreenshot.<init>(): position provider: using CurrentFramePositionProvider: com.applitools.eyes.selenium.positioning.ScrollPositionProvider@26fadbaf
+2020-05-04 19:14:10.480 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.selenium.positioning.ScrollPositionProvider.getEntireSize(): enter (scrollRootElement: EyesRemoteWebElement:[[ChromeDriver: chrome on WINDOWS (41903fde83b034dbc52301d1ac57588e)] -> tag name: html])
+2020-05-04 19:14:10.486 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.selenium.positioning.ScrollPositionProvider.getEntireSize(): ScrollPositionProvider - Entire size: 1280x566
+2020-05-04 19:14:10.492 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.selenium.capture.EyesWebDriverScreenshot.<init>(): Calculating frame window...
+2020-05-04 19:14:10.492 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.selenium.capture.EyesWebDriverScreenshot.<init>(): this.frameWindow: (0, 0) 1280x566, SCREENSHOT_AS_IS ; imageSizeAsRegion: (0, 0) 1920x849, SCREENSHOT_AS_IS
+2020-05-04 19:14:10.492 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.selenium.capture.EyesWebDriverScreenshot.<init>(): updated frameWindow: (0, 0) 1280x566, SCREENSHOT_AS_IS
+2020-05-04 19:14:10.492 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.selenium.capture.EyesWebDriverScreenshot.<init>(): Done!
+2020-05-04 19:14:10.492 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.selenium.capture.FullPageCaptureAlgorithm.getRegionInScreenshot(): Getting region in screenshot...
+2020-05-04 19:14:10.492 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.EyesScreenshot.convertRegionLocation(): original location: (0, 0)
+2020-05-04 19:14:10.493 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.EyesScreenshot.convertRegionLocation(): updated location: (0, 0)
+2020-05-04 19:14:10.493 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.EyesScreenshot.convertRegionLocation(): original location: (0, 0)
+2020-05-04 19:14:10.493 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.EyesScreenshot.convertRegionLocation(): updated location: (0, 0)
+2020-05-04 19:14:10.493 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.selenium.capture.FullPageCaptureAlgorithm.getRegionInScreenshot(): Region in screenshot: (0, 0) 1280x566, SCREENSHOT_AS_IS
+2020-05-04 19:14:10.493 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.selenium.capture.FullPageCaptureAlgorithm.getRegionInScreenshot(): Scaled region: (0, 0) 1920x849, SCREENSHOT_AS_IS
+2020-05-04 19:14:10.493 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.selenium.capture.FullPageCaptureAlgorithm.getRegionInScreenshot(): Region after intersect: (0, 0) 1920x849, SCREENSHOT_AS_IS
+2020-05-04 19:14:10.630 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.selenium.positioning.ScrollPositionProvider.getEntireSize(): enter (scrollRootElement: EyesRemoteWebElement:[[ChromeDriver: chrome on WINDOWS (41903fde83b034dbc52301d1ac57588e)] -> tag name: html])
+2020-05-04 19:14:10.640 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.selenium.positioning.ScrollPositionProvider.getEntireSize(): ScrollPositionProvider - Entire size: 1280x566
+2020-05-04 19:14:10.640 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.selenium.capture.FullPageCaptureAlgorithm.getStitchedRegion(): Entire size of region context: 1280x566
+2020-05-04 19:14:10.640 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.selenium.positioning.ScrollPositionProvider.setPosition(): setting position of EyesRemoteWebElement:[[ChromeDriver: chrome on WINDOWS (41903fde83b034dbc52301d1ac57588e)] -> tag name: html] to (0, 0)
+2020-05-04 19:14:10.648 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.selenium.wrappers.EyesTargetLocator.frames(): enter
+2020-05-04 19:14:10.648 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.selenium.wrappers.EyesTargetLocator.defaultContent(): enter
+2020-05-04 19:14:10.654 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.selenium.wrappers.EyesTargetLocator.defaultContent(): Done!
+2020-05-04 19:14:10.654 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.selenium.wrappers.EyesTargetLocator.frames(): Done switching into nested frames!
+2020-05-04 19:14:10.654 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.selenium.capture.EyesWebDriverScreenshot.<init>(): enter
+2020-05-04 19:14:10.654 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.selenium.capture.EyesWebDriverScreenshot.<init>(): position provider: using CurrentFramePositionProvider: com.applitools.eyes.selenium.positioning.ScrollPositionProvider@26fadbaf
+2020-05-04 19:14:10.654 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.selenium.positioning.ScrollPositionProvider.getEntireSize(): enter (scrollRootElement: EyesRemoteWebElement:[[ChromeDriver: chrome on WINDOWS (41903fde83b034dbc52301d1ac57588e)] -> tag name: html])
+2020-05-04 19:14:10.661 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.selenium.positioning.ScrollPositionProvider.getEntireSize(): ScrollPositionProvider - Entire size: 1280x566
+2020-05-04 19:14:10.667 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.selenium.capture.EyesWebDriverScreenshot.<init>(): Calculating frame window...
+2020-05-04 19:14:10.667 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.selenium.capture.EyesWebDriverScreenshot.<init>(): this.frameWindow: (0, 0) 1280x566, SCREENSHOT_AS_IS ; imageSizeAsRegion: (0, 0) 1280x566, SCREENSHOT_AS_IS
+2020-05-04 19:14:10.667 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.selenium.capture.EyesWebDriverScreenshot.<init>(): updated frameWindow: (0, 0) 1280x566, SCREENSHOT_AS_IS
+2020-05-04 19:14:10.667 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.selenium.capture.EyesWebDriverScreenshot.<init>(): Done!
+2020-05-04 19:14:10.667 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.selenium.wrappers.EyesTargetLocator.frames(): enter
+2020-05-04 19:14:10.667 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.selenium.wrappers.EyesTargetLocator.defaultContent(): enter
+2020-05-04 19:14:10.673 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.selenium.wrappers.EyesTargetLocator.defaultContent(): Done!
+2020-05-04 19:14:10.674 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.selenium.wrappers.EyesTargetLocator.frames(): Done switching into nested frames!
+2020-05-04 19:14:10.687 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.selenium.positioning.ScrollPositionProvider.<init>(): creating ScrollPositionProvider
+2020-05-04 19:14:10.694 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.selenium.positioning.ScrollPositionProvider.setPosition(): setting position of EyesRemoteWebElement:[[ChromeDriver: chrome on WINDOWS (41903fde83b034dbc52301d1ac57588e)] -> tag name: html] to (0, 0)
+2020-05-04 19:14:10.700 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.selenium.capture.DomCapture.getFrameDom(): Trying to get DOM from driver
+2020-05-04 19:14:11.315 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.selenium.capture.DomCapture.parseScriptResult(): missing css count: 3
+2020-05-04 19:14:11.315 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.selenium.capture.DomCapture.parseScriptResult(): missing frames count: 2
+2020-05-04 19:14:11.315 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.selenium.capture.DomCapture.fetchCssFiles(): DomCapture.fetchCssFiles() downloading
+2020-05-04 19:14:11.315 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.selenium.capture.DomCapture.downloadCss(): Given URL to download: https://fonts.googleapis.com/css?family=Lato:400,700,400italic,700italic&subset=latin
+2020-05-04 19:14:11.315 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.ServerConnector.downloadString(): Firing async GET
+2020-05-04 19:14:11.316 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.selenium.capture.DomCapture.fetchCssFiles(): DomCapture.fetchCssFiles() downloading
+2020-05-04 19:14:11.316 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.selenium.capture.DomCapture.downloadCss(): Given URL to download: https://ui.cogmento.com/fonts/fonts.css
+2020-05-04 19:14:11.317 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.ServerConnector.downloadString(): Firing async GET
+2020-05-04 19:14:11.317 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.selenium.capture.DomCapture.fetchCssFiles(): DomCapture.fetchCssFiles() downloading
+2020-05-04 19:14:11.317 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.selenium.capture.DomCapture.downloadCss(): Given URL to download: https://onesignal.com/sdks/OneSignalSDKStyles.css?v=1
+2020-05-04 19:14:11.318 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.ServerConnector.downloadString(): Firing async GET
+2020-05-04 19:14:11.326 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.selenium.wrappers.EyesWebDriver.getUserAgent(): user agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36
+2020-05-04 19:14:11.326 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.selenium.positioning.ScrollPositionProvider.<init>(): creating ScrollPositionProvider
+2020-05-04 19:14:11.326 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.selenium.capture.DomCapture.recurseFrames(): Switching to frame line :HTML[1]/BODY[1]/IFRAME[1]
+2020-05-04 19:14:11.333 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.selenium.capture.DomCapture.recurseFrames(): switching to specific frame : HTML[1]/BODY[1]/IFRAME[1]
+2020-05-04 19:14:11.353 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.selenium.capture.DomCapture.recurseFrames(): Switched to frame(HTML[1]/BODY[1]/IFRAME[1]) with src(https://platform.twitter.com/widgets/widget_iframe.c63890edc4243ee77048d507b181eeec.html?origin=https%3A%2F%2Fui.cogmento.com)
+2020-05-04 19:14:11.353 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.selenium.wrappers.EyesTargetLocator.frame(): Making preparations...
+2020-05-04 19:14:11.377 Eyes: [VERBOSE] {00000251813666753788} [32] com.applitools.eyes.ServerConnector$2.failed(): Async GET failed - entering retry
+2020-05-04 19:14:11.378 Eyes: [VERBOSE] {00000251813666753788} [32] com.applitools.eyes.ServerConnector.downloadString(): Firing async GET
+2020-05-04 19:14:11.387 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.selenium.frames.Frame.<init>(): Frame(logger, reference, (0, 0), 300x150, 0x0, (0, 0))
+2020-05-04 19:14:11.388 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.selenium.wrappers.EyesTargetLocator.frame(): Done! Switching to frame...
+2020-05-04 19:14:11.397 Eyes: [VERBOSE] {00000251813666753788} [33] com.applitools.eyes.selenium.capture.DomCapture$2.onDownloadComplete(): Download Complete
+2020-05-04 19:14:11.397 Eyes: [VERBOSE] {00000251813666753788} [33] com.applitools.eyes.selenium.capture.DomCapture$1.onDownloadComplete(): DomCapture.onDownloadComplete  - finished
+2020-05-04 19:14:11.406 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.selenium.wrappers.EyesTargetLocator.frame(): Done!
+2020-05-04 19:14:11.409 Eyes: [VERBOSE] {00000251813666753788} [31] com.applitools.eyes.selenium.capture.DomCapture$2.onDownloadComplete(): Download Complete
+2020-05-04 19:14:11.409 Eyes: [VERBOSE] {00000251813666753788} [31] com.applitools.eyes.selenium.capture.DomCapture$1.onDownloadComplete(): DomCapture.onDownloadComplete  - finished
+2020-05-04 19:14:11.410 Eyes: [VERBOSE] {00000251813666753788} [31] com.applitools.eyes.selenium.capture.DomCapture$2.onDownloadComplete(): cssPhaser.arriveAndDeregister(); https://fonts.googleapis.com/css?family=Lato:400,700,400italic,700italic&subset=latin
+2020-05-04 19:14:11.410 Eyes: [VERBOSE] {00000251813666753788} [31] com.applitools.eyes.selenium.capture.DomCapture$2.onDownloadComplete(): current missing - 2
+2020-05-04 19:14:11.410 Eyes: [VERBOSE] {00000251813666753788} [31] com.applitools.eyes.ServerConnector$2.completed(): response finished
+2020-05-04 19:14:11.414 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.selenium.capture.DomCapture.getFrameDom(): Trying to get DOM from driver
+2020-05-04 19:14:11.446 Eyes: [VERBOSE] {00000251813666753788} [33] com.applitools.eyes.selenium.capture.DomCapture$2.onDownloadComplete(): cssPhaser.arriveAndDeregister(); https://onesignal.com/sdks/OneSignalSDKStyles.css?v=1
+2020-05-04 19:14:11.446 Eyes: [VERBOSE] {00000251813666753788} [33] com.applitools.eyes.selenium.capture.DomCapture$2.onDownloadComplete(): current missing - 1
+2020-05-04 19:14:11.447 Eyes: [VERBOSE] {00000251813666753788} [33] com.applitools.eyes.ServerConnector$2.completed(): response finished
+2020-05-04 19:14:11.551 Eyes: [VERBOSE] {00000251813666753788} [34] com.applitools.eyes.selenium.capture.DomCapture$2.onDownloadComplete(): Download Complete
+2020-05-04 19:14:11.552 Eyes: [VERBOSE] {00000251813666753788} [34] com.applitools.eyes.selenium.capture.DomCapture$1.onDownloadComplete(): DomCapture.onDownloadComplete  - finished
+2020-05-04 19:14:11.552 Eyes: [VERBOSE] {00000251813666753788} [34] com.applitools.eyes.selenium.capture.DomCapture$2.onDownloadComplete(): cssPhaser.arriveAndDeregister(); https://ui.cogmento.com/fonts/fonts.css
+2020-05-04 19:14:11.552 Eyes: [VERBOSE] {00000251813666753788} [34] com.applitools.eyes.selenium.capture.DomCapture$2.onDownloadComplete(): current missing - 0
+2020-05-04 19:14:11.552 Eyes: [VERBOSE] {00000251813666753788} [34] com.applitools.eyes.ServerConnector$2.completed(): response finished
+2020-05-04 19:14:11.844 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.selenium.capture.DomCapture.parseScriptResult(): missing css count: 0
+2020-05-04 19:14:11.844 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.selenium.capture.DomCapture.parseScriptResult(): missing frames count: 0
+2020-05-04 19:14:11.852 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.selenium.wrappers.EyesWebDriver.getUserAgent(): user agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36
+2020-05-04 19:14:11.852 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.selenium.positioning.ScrollPositionProvider.<init>(): creating ScrollPositionProvider
+2020-05-04 19:14:11.852 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.selenium.wrappers.EyesTargetLocator.frames(): enter
+2020-05-04 19:14:11.853 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.selenium.wrappers.EyesTargetLocator.defaultContent(): enter
+2020-05-04 19:14:11.853 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.selenium.wrappers.EyesTargetLocator.defaultContent(): Making preparations...
+2020-05-04 19:14:11.853 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.selenium.wrappers.EyesTargetLocator.defaultContent(): Done! Switching to default content...
+2020-05-04 19:14:11.859 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.selenium.wrappers.EyesTargetLocator.defaultContent(): Done!
+2020-05-04 19:14:11.860 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.selenium.wrappers.EyesTargetLocator.frames(): Done switching into nested frames!
+2020-05-04 19:14:11.860 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.selenium.capture.DomCapture.recurseFrames(): Switching to frame line :HTML[1]/BODY[1]/IFRAME[2]
+2020-05-04 19:14:11.868 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.selenium.capture.DomCapture.recurseFrames(): switching to specific frame : HTML[1]/BODY[1]/IFRAME[2]
+2020-05-04 19:14:11.887 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.selenium.capture.DomCapture.recurseFrames(): Switched to frame(HTML[1]/BODY[1]/IFRAME[2]) with src(https://onesignal.com/webPushAnalytics)
+2020-05-04 19:14:11.887 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.selenium.wrappers.EyesTargetLocator.frame(): Making preparations...
+2020-05-04 19:14:11.918 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.selenium.frames.Frame.<init>(): Frame(logger, reference, (2, 2), 304x154, 0x0, (0, 0))
+2020-05-04 19:14:11.919 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.selenium.wrappers.EyesTargetLocator.frame(): Done! Switching to frame...
+2020-05-04 19:14:11.932 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.selenium.wrappers.EyesTargetLocator.frame(): Done!
+2020-05-04 19:14:11.938 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.selenium.capture.DomCapture.getFrameDom(): Trying to get DOM from driver
+2020-05-04 19:14:12.361 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.selenium.capture.DomCapture.parseScriptResult(): missing css count: 0
+2020-05-04 19:14:12.362 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.selenium.capture.DomCapture.parseScriptResult(): missing frames count: 0
+2020-05-04 19:14:12.369 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.selenium.wrappers.EyesWebDriver.getUserAgent(): user agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36
+2020-05-04 19:14:12.369 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.selenium.positioning.ScrollPositionProvider.<init>(): creating ScrollPositionProvider
+2020-05-04 19:14:12.369 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.selenium.wrappers.EyesTargetLocator.frames(): enter
+2020-05-04 19:14:12.370 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.selenium.wrappers.EyesTargetLocator.defaultContent(): enter
+2020-05-04 19:14:12.370 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.selenium.wrappers.EyesTargetLocator.defaultContent(): Making preparations...
+2020-05-04 19:14:12.370 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.selenium.wrappers.EyesTargetLocator.defaultContent(): Done! Switching to default content...
+2020-05-04 19:14:12.376 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.selenium.wrappers.EyesTargetLocator.defaultContent(): Done!
+2020-05-04 19:14:12.376 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.selenium.wrappers.EyesTargetLocator.frames(): Done switching into nested frames!
+2020-05-04 19:14:12.409 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.selenium.wrappers.EyesWebDriver.getUserAgent(): user agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36
+2020-05-04 19:14:12.409 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.selenium.positioning.ScrollPositionProvider.<init>(): creating ScrollPositionProvider
+2020-05-04 19:14:12.410 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.selenium.wrappers.EyesTargetLocator.frames(): enter
+2020-05-04 19:14:12.410 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.selenium.wrappers.EyesTargetLocator.defaultContent(): enter
+2020-05-04 19:14:12.415 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.selenium.wrappers.EyesTargetLocator.defaultContent(): Done!
+2020-05-04 19:14:12.415 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.selenium.wrappers.EyesTargetLocator.frames(): Done switching into nested frames!
+2020-05-04 19:14:12.422 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.selenium.positioning.ScrollPositionProvider.setPosition(): setting position of EyesRemoteWebElement:[[ChromeDriver: chrome on WINDOWS (41903fde83b034dbc52301d1ac57588e)] -> tag name: html] to (0, 0)
+2020-05-04 19:14:12.435 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.selenium.wrappers.EyesWebDriver.getUserAgent(): user agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36
+2020-05-04 19:14:12.435 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.selenium.positioning.ScrollPositionProvider.<init>(): creating ScrollPositionProvider
+2020-05-04 19:14:12.435 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.selenium.wrappers.EyesTargetLocator.frames(): enter
+2020-05-04 19:14:12.435 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.selenium.wrappers.EyesTargetLocator.defaultContent(): enter
+2020-05-04 19:14:12.442 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.selenium.wrappers.EyesTargetLocator.defaultContent(): Done!
+2020-05-04 19:14:12.442 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.selenium.wrappers.EyesTargetLocator.frames(): Done switching into nested frames!
+2020-05-04 19:14:13.183 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.EyesBase.tryCaptureAndPostDom(): domUrl: https://eyesapi.applitools.com/api/sessions/running/data/se%7e94b61b93-b0de-4290-8fd8-a465eaf9a85f?accessKey=gRtTfcnBs3EsKcaA8iOzmcj5ySXfzz2pzWXZLJntgjw110
+2020-05-04 19:14:13.183 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.selenium.wrappers.EyesTargetLocator.frames(): enter
+2020-05-04 19:14:13.183 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.selenium.wrappers.EyesTargetLocator.defaultContent(): enter
+2020-05-04 19:14:13.199 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.selenium.wrappers.EyesTargetLocator.defaultContent(): Done!
+2020-05-04 19:14:13.200 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.selenium.wrappers.EyesTargetLocator.frames(): Done switching into nested frames!
+2020-05-04 19:14:13.200 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.selenium.positioning.ScrollPositionProvider.setPosition(): setting position of EyesRemoteWebElement:[[ChromeDriver: chrome on WINDOWS (41903fde83b034dbc52301d1ac57588e)] -> tag name: html] to (0, 0)
+2020-05-04 19:14:13.211 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.selenium.wrappers.EyesTargetLocator.frames(): enter
+2020-05-04 19:14:13.212 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.selenium.wrappers.EyesTargetLocator.defaultContent(): enter
+2020-05-04 19:14:13.223 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.selenium.wrappers.EyesTargetLocator.defaultContent(): Done!
+2020-05-04 19:14:13.224 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.selenium.wrappers.EyesTargetLocator.frames(): Done switching into nested frames!
+2020-05-04 19:14:13.224 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.EyesBase.getAppOutputWithScreenshot(): Done getting screenshot!
+2020-05-04 19:14:13.224 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.EyesBase.getAppOutputWithScreenshot(): Compressing screenshot...
+2020-05-04 19:14:13.272 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.EyesBase.getAppOutputWithScreenshot(): Done! Getting title...
+2020-05-04 19:14:13.277 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.EyesBase.getAppOutputWithScreenshot(): Done!
+2020-05-04 19:14:13.277 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.EyesBase.getAppOutputWithScreenshot(): Done!
+2020-05-04 19:14:13.901 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.MatchWindowTask.takeScreenshot(): Completed in 9.00 seconds
+2020-05-04 19:14:13.901 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.EyesBase.checkWindowBase(): MatchWindow Done!
+2020-05-04 19:14:13.902 Eyes: [LOG    ] {00000251813666753788} [1] com.applitools.eyes.EyesBase.validateResult(): Mismatch! (Opening browser)
+2020-05-04 19:14:13.902 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.EyesBase.checkWindowBase(): Done!
+2020-05-04 19:14:13.902 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.selenium.wrappers.EyesTargetLocator.frames(): enter
+2020-05-04 19:14:13.902 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.selenium.wrappers.EyesTargetLocator.defaultContent(): enter
+2020-05-04 19:14:13.908 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.selenium.wrappers.EyesTargetLocator.defaultContent(): Done!
+2020-05-04 19:14:13.908 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.selenium.wrappers.EyesTargetLocator.frames(): Done switching into nested frames!
+2020-05-04 19:14:13.908 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.selenium.wrappers.EyesTargetLocator.resetScroll(): enter
+2020-05-04 19:14:13.913 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.selenium.wrappers.EyesWebDriver.getUserAgent(): user agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36
+2020-05-04 19:14:13.914 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.selenium.positioning.ScrollPositionProvider.<init>(): creating ScrollPositionProvider
+2020-05-04 19:14:13.914 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.selenium.wrappers.EyesTargetLocator.frames(): enter
+2020-05-04 19:14:13.914 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.selenium.wrappers.EyesTargetLocator.defaultContent(): enter
+2020-05-04 19:14:13.920 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.selenium.wrappers.EyesTargetLocator.defaultContent(): Done!
+2020-05-04 19:14:13.920 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.selenium.wrappers.EyesTargetLocator.frames(): Done switching into nested frames!
+2020-05-04 19:14:13.920 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.selenium.SeleniumEyes.tryRestoreScrollbars(): returning overflow of element to its original value: EyesRemoteWebElement:[[ChromeDriver: chrome on WINDOWS (41903fde83b034dbc52301d1ac57588e)] -> tag name: html]
+2020-05-04 19:14:14.134 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.selenium.wrappers.EyesWebDriver.getUserAgent(): user agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36
+2020-05-04 19:14:14.134 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.selenium.positioning.ScrollPositionProvider.<init>(): creating ScrollPositionProvider
+2020-05-04 19:14:14.134 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.selenium.wrappers.EyesTargetLocator.frames(): enter
+2020-05-04 19:14:14.135 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.selenium.wrappers.EyesTargetLocator.defaultContent(): enter
+2020-05-04 19:14:14.140 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.selenium.wrappers.EyesTargetLocator.defaultContent(): Done!
+2020-05-04 19:14:14.141 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.selenium.wrappers.EyesTargetLocator.frames(): Done switching into nested frames!
+2020-05-04 19:14:14.141 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.selenium.SeleniumEyes.tryRestoreScrollbars(): done restoring scrollbars.
+2020-05-04 19:14:14.141 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.selenium.wrappers.EyesTargetLocator.frames(): enter
+2020-05-04 19:14:14.141 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.selenium.wrappers.EyesTargetLocator.defaultContent(): enter
+2020-05-04 19:14:14.146 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.selenium.wrappers.EyesTargetLocator.defaultContent(): Done!
+2020-05-04 19:14:14.146 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.selenium.wrappers.EyesTargetLocator.frames(): Done switching into nested frames!
+2020-05-04 19:14:14.147 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.selenium.SeleniumEyes.check(): check - done!
+2020-05-04 19:14:14.147 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.EyesBase.close(): close(true)
+2020-05-04 19:14:14.147 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.EyesBase.close(): Ending server session...
+2020-05-04 19:14:14.147 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.EyesBase.close(): Automatically save test? false
+2020-05-04 19:14:14.729 Eyes: [VERBOSE] {00000251813666753788} [1] com.applitools.eyes.EyesBase.close(): Existing test [ steps: 1, test name: Google, matches: 0, mismatches:1, missing: 0] , URL: https://eyes.applitools.com/app/batches/00000251813666754046/00000251813666753788?accountId=FusxJrz59k2ijdO5_dXVGg~~
+2020-05-04 19:14:14.729 Eyes: [LOG    ] {00000251813666753788} [1] com.applitools.eyes.EyesBase.logSessionResultsAndThrowException(): --- Failed test ended. See details at https://eyes.applitools.com/app/batches/00000251813666754046/00000251813666753788?accountId=FusxJrz59k2ijdO5_dXVGg~~
+2020-05-04 19:15:00.243 Eyes: [VERBOSE] {} [1] com.applitools.eyes.selenium.wrappers.EyesWebDriver.<init>(): Driver session is 21ef7ad0a7b97869ae8f010d54452157
+2020-05-04 19:15:00.244 Eyes: [LOG    ] {} [1] com.applitools.eyes.EyesBase.logOpenBase(): Eyes server URL is 'https://eyesapi.applitools.com'
+2020-05-04 19:15:00.244 Eyes: [VERBOSE] {} [1] com.applitools.eyes.EyesBase.logOpenBase(): Timeout = '300000'
+2020-05-04 19:15:00.253 Eyes: [LOG    ] {} [1] com.applitools.eyes.EyesBase.logOpenBase(): matchTimeout = '2000' 
+2020-05-04 19:15:00.256 Eyes: [LOG    ] {} [1] com.applitools.eyes.EyesBase.logOpenBase(): Default match settings = 'Match level: STRICT, Exact match settings: null' 
+2020-05-04 19:15:00.256 Eyes: [LOG    ] {} [1] com.applitools.eyes.EyesBase.logOpenBase(): FailureReports = 'ON_CLOSE' 
+2020-05-04 19:15:00.256 Eyes: [LOG    ] {} [1] com.applitools.eyes.EyesBase.ensureRunningSession(): No running session, calling start session...
+2020-05-04 19:15:00.256 Eyes: [VERBOSE] {} [1] com.applitools.eyes.EyesBase.startSession(): startSession()
+2020-05-04 19:15:00.267 Eyes: [VERBOSE] {} [1] com.applitools.eyes.selenium.wrappers.EyesWebDriver.getUserAgent(): user agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36
+2020-05-04 19:15:00.290 Eyes: [VERBOSE] {} [1] com.applitools.eyes.selenium.positioning.ScrollPositionProvider.<init>(): creating ScrollPositionProvider
+2020-05-04 19:15:00.290 Eyes: [VERBOSE] {} [1] com.applitools.eyes.selenium.wrappers.EyesTargetLocator.defaultContent(): enter
+2020-05-04 19:15:00.816 Eyes: [VERBOSE] {} [1] com.applitools.eyes.selenium.wrappers.EyesTargetLocator.defaultContent(): Done!
+2020-05-04 19:15:00.817 Eyes: [VERBOSE] {} [1] com.applitools.eyes.selenium.EyesSeleniumUtils.setViewportSize(): setViewportSize(1280x566)
+2020-05-04 19:15:00.827 Eyes: [VERBOSE] {} [1] com.applitools.eyes.selenium.EyesSeleniumUtils.getViewportSize(): scriptResult result = [1280, 566]
+2020-05-04 19:15:00.827 Eyes: [VERBOSE] {} [1] com.applitools.eyes.selenium.EyesSeleniumUtils.setViewportSize(): Initial viewport size:1280x566
+2020-05-04 19:15:00.827 Eyes: [VERBOSE] {} [1] com.applitools.eyes.selenium.EyesSeleniumUtils.setViewportSize(): Required size already set.
+2020-05-04 19:15:00.837 Eyes: [VERBOSE] {} [1] com.applitools.eyes.selenium.wrappers.EyesWebDriver.getUserAgent(): user agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36
+2020-05-04 19:15:00.856 Eyes: [VERBOSE] {} [1] com.applitools.eyes.selenium.positioning.ScrollPositionProvider.<init>(): creating ScrollPositionProvider
+2020-05-04 19:15:00.856 Eyes: [VERBOSE] {} [1] com.applitools.eyes.selenium.wrappers.EyesTargetLocator.frames(): enter
+2020-05-04 19:15:00.856 Eyes: [VERBOSE] {} [1] com.applitools.eyes.selenium.wrappers.EyesTargetLocator.defaultContent(): enter
+2020-05-04 19:15:00.865 Eyes: [VERBOSE] {} [1] com.applitools.eyes.selenium.wrappers.EyesTargetLocator.defaultContent(): Done!
+2020-05-04 19:15:00.867 Eyes: [VERBOSE] {} [1] com.applitools.eyes.selenium.wrappers.EyesTargetLocator.frames(): Done switching into nested frames!
+2020-05-04 19:15:00.867 Eyes: [VERBOSE] {} [1] com.applitools.eyes.EyesBase.startSession(): Batch is 'Google Home' - 2020-05-04T23:15:00Z
+2020-05-04 19:15:00.875 Eyes: [VERBOSE] {} [1] com.applitools.eyes.selenium.wrappers.EyesWebDriver.getUserAgent(): user agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36
+2020-05-04 19:15:00.875 Eyes: [LOG    ] {} [1] com.applitools.eyes.selenium.SeleniumEyes.getAppEnvironment(): No OS set, checking for mobile OS...
+2020-05-04 19:15:00.875 Eyes: [LOG    ] {} [1] com.applitools.eyes.selenium.SeleniumEyes.getAppEnvironment(): No mobile OS detected.
+2020-05-04 19:15:00.875 Eyes: [LOG    ] {} [1] com.applitools.eyes.selenium.SeleniumEyes.getAppEnvironment(): Done!
+2020-05-04 19:15:00.875 Eyes: [VERBOSE] {} [1] com.applitools.eyes.EyesBase.startSession(): Application environment is [os = ? hostingApp = ? displaySize = 1280x566]
+2020-05-04 19:15:00.885 Eyes: [VERBOSE] {} [1] com.applitools.eyes.selenium.wrappers.EyesWebDriver.getUserAgent(): user agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36
+2020-05-04 19:15:00.886 Eyes: [LOG    ] {} [1] com.applitools.eyes.selenium.SeleniumEyes.getAppEnvironment(): No OS set, checking for mobile OS...
+2020-05-04 19:15:00.886 Eyes: [LOG    ] {} [1] com.applitools.eyes.selenium.SeleniumEyes.getAppEnvironment(): No mobile OS detected.
+2020-05-04 19:15:00.886 Eyes: [LOG    ] {} [1] com.applitools.eyes.selenium.SeleniumEyes.getAppEnvironment(): Done!
+2020-05-04 19:15:00.886 Eyes: [VERBOSE] {} [1] com.applitools.eyes.EyesBase.startSession(): Starting server session...
+2020-05-04 19:15:00.886 Eyes: [VERBOSE] {} [1] com.applitools.eyes.ServerConnector.startSession(): Using Jersey2 for REST API calls.
+2020-05-04 19:15:02.339 Eyes: [VERBOSE] {} [1] com.applitools.eyes.EyesBase.startSession(): Server session ID is MDAwMDAyNTE4MTM2NjY2OTUyNzk~;MDAwMDAyNTE4MTM2NjY2OTUwNzY~
+2020-05-04 19:15:02.340 Eyes: [LOG    ] {} [1] com.applitools.eyes.EyesBase.startSession(): --- Test started - 'Google' of 'Planet' [os = ? hostingApp = ? displaySize = 1280x566]
+2020-05-04 19:15:02.340 Eyes: [LOG    ] {00000251813666695076} [1] com.applitools.eyes.EyesBase.ensureRunningSession(): Done!
+2020-05-04 19:15:02.346 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.selenium.SeleniumEyes.check(): com.applitools.eyes.selenium.Configuration@60ed12e8
+	batch = 'Google Home' - 2020-05-04T23:15:00Z
+	branchName = null
+	parentBranchName = null
+	agentId = null
+	baselineEnvName = null
+	environmentName = null
+	saveDiffs = null
+	appName = Planet
+	testName = Google
+	viewportSize = 1280x566
+	sessionType = null
+	forceFullPageScreenshot = true
+	waitBeforeScreenshots = 100
+	stitchMode = SCROLL
+	hideScrollbars = true
+	hideCaret = true
+2020-05-04 19:15:02.346 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.selenium.SeleniumEyes.check(): check("Opening browser", checkSettings) - begin
+2020-05-04 19:15:02.360 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.selenium.SeleniumEyes.createPositionProvider(): initializing position provider. stitchMode: SCROLL
+2020-05-04 19:15:02.361 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.selenium.positioning.ScrollPositionProvider.<init>(): creating ScrollPositionProvider
+2020-05-04 19:15:02.371 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.selenium.SeleniumEyes.check(): URL: https://ui.cogmento.com/
+2020-05-04 19:15:02.382 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.selenium.wrappers.EyesWebDriver.getUserAgent(): user agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36
+2020-05-04 19:15:02.382 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.selenium.positioning.ScrollPositionProvider.<init>(): creating ScrollPositionProvider
+2020-05-04 19:15:02.389 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.selenium.SeleniumEyes.tryHideScrollbars(): hiding scrollbars of element (2): EyesRemoteWebElement:[[ChromeDriver: chrome on WINDOWS (21ef7ad0a7b97869ae8f010d54452157)] -> tag name: html]
+2020-05-04 19:15:02.599 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.selenium.SeleniumEyes.tryHideScrollbars(): switching back to original frame
+2020-05-04 19:15:02.606 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.selenium.wrappers.EyesWebDriver.getUserAgent(): user agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36
+2020-05-04 19:15:02.607 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.selenium.positioning.ScrollPositionProvider.<init>(): creating ScrollPositionProvider
+2020-05-04 19:15:02.607 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.selenium.wrappers.EyesTargetLocator.frames(): enter
+2020-05-04 19:15:02.607 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.selenium.wrappers.EyesTargetLocator.defaultContent(): enter
+2020-05-04 19:15:02.613 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.selenium.wrappers.EyesTargetLocator.defaultContent(): Done!
+2020-05-04 19:15:02.613 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.selenium.wrappers.EyesTargetLocator.frames(): Done switching into nested frames!
+2020-05-04 19:15:02.614 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.selenium.SeleniumEyes.tryHideScrollbars(): done hiding scrollbars.
+2020-05-04 19:15:02.614 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.selenium.SeleniumEyes.check(): default case
+2020-05-04 19:15:02.614 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.selenium.wrappers.EyesTargetLocator.defaultContent(): enter
+2020-05-04 19:15:02.620 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.selenium.wrappers.EyesTargetLocator.defaultContent(): Done!
+2020-05-04 19:15:02.632 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.selenium.SeleniumEyes.createPositionProvider(): initializing position provider. stitchMode: SCROLL
+2020-05-04 19:15:02.632 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.selenium.positioning.ScrollPositionProvider.<init>(): creating ScrollPositionProvider
+2020-05-04 19:15:02.633 Eyes: [LOG    ] {00000251813666695076} [1] com.applitools.eyes.EyesBase.ensureRunningSession(): session already running.
+2020-05-04 19:15:02.633 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.EyesBase.matchWindow(): params: ([(0, 0) 0x0, SCREENSHOT_AS_IS], Opening browser, 5000)
+2020-05-04 19:15:02.633 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.MatchWindowTask.matchWindow(): retryTimeout = 5000
+2020-05-04 19:15:03.134 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.EyesBase.getAppOutputWithScreenshot(): getting screenshot...
+2020-05-04 19:15:03.134 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.selenium.SeleniumEyes.updateScalingParams(): Trying to extract device pixel ratio...
+2020-05-04 19:15:03.142 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.selenium.SeleniumEyes.updateScalingParams(): Setting web scale provider...
+2020-05-04 19:15:03.158 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.selenium.SeleniumEyes.updateScalingParams(): Device pixel ratio: 1.500000
+2020-05-04 19:15:03.159 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.selenium.SeleniumEyes.updateScalingParams(): Done!
+2020-05-04 19:15:03.166 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.selenium.wrappers.EyesWebDriver.getUserAgent(): user agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36
+2020-05-04 19:15:03.166 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.selenium.positioning.ScrollPositionProvider.<init>(): creating ScrollPositionProvider
+2020-05-04 19:15:03.166 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.selenium.wrappers.EyesTargetLocator.frames(): enter
+2020-05-04 19:15:03.166 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.selenium.wrappers.EyesTargetLocator.defaultContent(): enter
+2020-05-04 19:15:03.173 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.selenium.wrappers.EyesTargetLocator.defaultContent(): Done!
+2020-05-04 19:15:03.173 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.selenium.wrappers.EyesTargetLocator.frames(): Done switching into nested frames!
+2020-05-04 19:15:03.180 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.selenium.wrappers.EyesTargetLocator.frames(): enter
+2020-05-04 19:15:03.180 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.selenium.wrappers.EyesTargetLocator.defaultContent(): enter
+2020-05-04 19:15:03.187 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.selenium.wrappers.EyesTargetLocator.defaultContent(): Done!
+2020-05-04 19:15:03.187 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.selenium.wrappers.EyesTargetLocator.frames(): Done switching into nested frames!
+2020-05-04 19:15:03.194 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.selenium.SeleniumEyes.getFullPageScreenshot(): ForceFullPageScreenshot || stitchContent_ - enter
+2020-05-04 19:15:03.194 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.selenium.wrappers.EyesTargetLocator.frames(): enter
+2020-05-04 19:15:03.195 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.selenium.wrappers.EyesTargetLocator.defaultContent(): enter
+2020-05-04 19:15:03.201 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.selenium.wrappers.EyesTargetLocator.defaultContent(): Done!
+2020-05-04 19:15:03.201 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.selenium.wrappers.EyesTargetLocator.frames(): Done switching into nested frames!
+2020-05-04 19:15:03.201 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.selenium.positioning.ScrollPositionProvider.<init>(): creating ScrollPositionProvider
+2020-05-04 19:15:03.202 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.selenium.positioning.ScrollPositionProvider.<init>(): creating ScrollPositionProvider
+2020-05-04 19:15:03.202 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.selenium.SeleniumEyes.getFullPageScreenshot(): resetting originProvider location
+2020-05-04 19:15:03.202 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.selenium.positioning.ScrollPositionProvider.setPosition(): setting position of EyesRemoteWebElement:[[ChromeDriver: chrome on WINDOWS (21ef7ad0a7b97869ae8f010d54452157)] -> tag name: html] to (0, 0)
+2020-05-04 19:15:03.235 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.selenium.capture.FullPageCaptureAlgorithm.getStitchedRegion(): region: (0, 0) 1280x566, SCREENSHOT_AS_IS ; fullArea: (0, 0) 0x0, SCREENSHOT_AS_IS ; positionProvider: com.applitools.eyes.selenium.positioning.ScrollPositionProvider
+2020-05-04 19:15:03.247 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.selenium.capture.FullPageCaptureAlgorithm.getStitchedRegion(): region size: (0, 0) 1280x566, SCREENSHOT_AS_IS
+2020-05-04 19:15:03.348 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.selenium.capture.TakesScreenshotImageProvider.getImage(): Getting screenshot as base64...
+2020-05-04 19:15:03.879 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.selenium.wrappers.EyesWebDriver.normalizeRotation(): Trying to automatically normalize rotation...
+2020-05-04 19:15:04.012 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.selenium.capture.TakesScreenshotImageProvider.getImage(): Done getting base64! Creating BufferedImage...
+2020-05-04 19:15:04.040 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.selenium.ContextBasedScaleProvider.updateScaleRatio(): Calculating the scale ratio..
+2020-05-04 19:15:04.040 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.selenium.ContextBasedScaleProvider.updateScaleRatio(): Final scale ratio: 0.6666666666666666
+2020-05-04 19:15:04.042 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.selenium.capture.EyesWebDriverScreenshot.<init>(): enter
+2020-05-04 19:15:04.042 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.selenium.capture.EyesWebDriverScreenshot.<init>(): position provider: using CurrentFramePositionProvider: com.applitools.eyes.selenium.positioning.ScrollPositionProvider@353078df
+2020-05-04 19:15:04.042 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.selenium.positioning.ScrollPositionProvider.getEntireSize(): enter (scrollRootElement: EyesRemoteWebElement:[[ChromeDriver: chrome on WINDOWS (21ef7ad0a7b97869ae8f010d54452157)] -> tag name: html])
+2020-05-04 19:15:04.050 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.selenium.positioning.ScrollPositionProvider.getEntireSize(): ScrollPositionProvider - Entire size: 1280x566
+2020-05-04 19:15:04.057 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.selenium.capture.EyesWebDriverScreenshot.<init>(): Calculating frame window...
+2020-05-04 19:15:04.057 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.selenium.capture.EyesWebDriverScreenshot.<init>(): this.frameWindow: (0, 0) 1280x566, SCREENSHOT_AS_IS ; imageSizeAsRegion: (0, 0) 1920x849, SCREENSHOT_AS_IS
+2020-05-04 19:15:04.057 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.selenium.capture.EyesWebDriverScreenshot.<init>(): updated frameWindow: (0, 0) 1280x566, SCREENSHOT_AS_IS
+2020-05-04 19:15:04.058 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.selenium.capture.EyesWebDriverScreenshot.<init>(): Done!
+2020-05-04 19:15:04.058 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.selenium.capture.FullPageCaptureAlgorithm.getRegionInScreenshot(): Creating screenshot object...
+2020-05-04 19:15:04.058 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.selenium.capture.EyesWebDriverScreenshot.<init>(): enter
+2020-05-04 19:15:04.058 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.selenium.capture.EyesWebDriverScreenshot.<init>(): position provider: using CurrentFramePositionProvider: com.applitools.eyes.selenium.positioning.ScrollPositionProvider@353078df
+2020-05-04 19:15:04.058 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.selenium.positioning.ScrollPositionProvider.getEntireSize(): enter (scrollRootElement: EyesRemoteWebElement:[[ChromeDriver: chrome on WINDOWS (21ef7ad0a7b97869ae8f010d54452157)] -> tag name: html])
+2020-05-04 19:15:04.065 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.selenium.positioning.ScrollPositionProvider.getEntireSize(): ScrollPositionProvider - Entire size: 1280x566
+2020-05-04 19:15:04.073 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.selenium.capture.EyesWebDriverScreenshot.<init>(): Calculating frame window...
+2020-05-04 19:15:04.073 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.selenium.capture.EyesWebDriverScreenshot.<init>(): this.frameWindow: (0, 0) 1280x566, SCREENSHOT_AS_IS ; imageSizeAsRegion: (0, 0) 1920x849, SCREENSHOT_AS_IS
+2020-05-04 19:15:04.073 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.selenium.capture.EyesWebDriverScreenshot.<init>(): updated frameWindow: (0, 0) 1280x566, SCREENSHOT_AS_IS
+2020-05-04 19:15:04.073 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.selenium.capture.EyesWebDriverScreenshot.<init>(): Done!
+2020-05-04 19:15:04.073 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.selenium.capture.FullPageCaptureAlgorithm.getRegionInScreenshot(): Getting region in screenshot...
+2020-05-04 19:15:04.074 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.EyesScreenshot.convertRegionLocation(): original location: (0, 0)
+2020-05-04 19:15:04.074 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.EyesScreenshot.convertRegionLocation(): updated location: (0, 0)
+2020-05-04 19:15:04.074 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.EyesScreenshot.convertRegionLocation(): original location: (0, 0)
+2020-05-04 19:15:04.075 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.EyesScreenshot.convertRegionLocation(): updated location: (0, 0)
+2020-05-04 19:15:04.075 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.selenium.capture.FullPageCaptureAlgorithm.getRegionInScreenshot(): Region in screenshot: (0, 0) 1280x566, SCREENSHOT_AS_IS
+2020-05-04 19:15:04.075 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.selenium.capture.FullPageCaptureAlgorithm.getRegionInScreenshot(): Scaled region: (0, 0) 1920x849, SCREENSHOT_AS_IS
+2020-05-04 19:15:04.075 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.selenium.capture.FullPageCaptureAlgorithm.getRegionInScreenshot(): Region after intersect: (0, 0) 1920x849, SCREENSHOT_AS_IS
+2020-05-04 19:15:04.373 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.selenium.positioning.ScrollPositionProvider.getEntireSize(): enter (scrollRootElement: EyesRemoteWebElement:[[ChromeDriver: chrome on WINDOWS (21ef7ad0a7b97869ae8f010d54452157)] -> tag name: html])
+2020-05-04 19:15:04.382 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.selenium.positioning.ScrollPositionProvider.getEntireSize(): ScrollPositionProvider - Entire size: 1280x566
+2020-05-04 19:15:04.382 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.selenium.capture.FullPageCaptureAlgorithm.getStitchedRegion(): Entire size of region context: 1280x566
+2020-05-04 19:15:04.382 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.selenium.positioning.ScrollPositionProvider.setPosition(): setting position of EyesRemoteWebElement:[[ChromeDriver: chrome on WINDOWS (21ef7ad0a7b97869ae8f010d54452157)] -> tag name: html] to (0, 0)
+2020-05-04 19:15:04.390 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.selenium.wrappers.EyesTargetLocator.frames(): enter
+2020-05-04 19:15:04.390 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.selenium.wrappers.EyesTargetLocator.defaultContent(): enter
+2020-05-04 19:15:04.397 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.selenium.wrappers.EyesTargetLocator.defaultContent(): Done!
+2020-05-04 19:15:04.397 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.selenium.wrappers.EyesTargetLocator.frames(): Done switching into nested frames!
+2020-05-04 19:15:04.398 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.selenium.capture.EyesWebDriverScreenshot.<init>(): enter
+2020-05-04 19:15:04.398 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.selenium.capture.EyesWebDriverScreenshot.<init>(): position provider: using CurrentFramePositionProvider: com.applitools.eyes.selenium.positioning.ScrollPositionProvider@353078df
+2020-05-04 19:15:04.398 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.selenium.positioning.ScrollPositionProvider.getEntireSize(): enter (scrollRootElement: EyesRemoteWebElement:[[ChromeDriver: chrome on WINDOWS (21ef7ad0a7b97869ae8f010d54452157)] -> tag name: html])
+2020-05-04 19:15:04.405 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.selenium.positioning.ScrollPositionProvider.getEntireSize(): ScrollPositionProvider - Entire size: 1280x566
+2020-05-04 19:15:04.413 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.selenium.capture.EyesWebDriverScreenshot.<init>(): Calculating frame window...
+2020-05-04 19:15:04.414 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.selenium.capture.EyesWebDriverScreenshot.<init>(): this.frameWindow: (0, 0) 1280x566, SCREENSHOT_AS_IS ; imageSizeAsRegion: (0, 0) 1280x566, SCREENSHOT_AS_IS
+2020-05-04 19:15:04.414 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.selenium.capture.EyesWebDriverScreenshot.<init>(): updated frameWindow: (0, 0) 1280x566, SCREENSHOT_AS_IS
+2020-05-04 19:15:04.414 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.selenium.capture.EyesWebDriverScreenshot.<init>(): Done!
+2020-05-04 19:15:04.414 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.selenium.wrappers.EyesTargetLocator.frames(): enter
+2020-05-04 19:15:04.414 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.selenium.wrappers.EyesTargetLocator.defaultContent(): enter
+2020-05-04 19:15:04.420 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.selenium.wrappers.EyesTargetLocator.defaultContent(): Done!
+2020-05-04 19:15:04.421 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.selenium.wrappers.EyesTargetLocator.frames(): Done switching into nested frames!
+2020-05-04 19:15:04.438 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.selenium.positioning.ScrollPositionProvider.<init>(): creating ScrollPositionProvider
+2020-05-04 19:15:04.448 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.selenium.positioning.ScrollPositionProvider.setPosition(): setting position of EyesRemoteWebElement:[[ChromeDriver: chrome on WINDOWS (21ef7ad0a7b97869ae8f010d54452157)] -> tag name: html] to (0, 0)
+2020-05-04 19:15:04.454 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.selenium.capture.DomCapture.getFrameDom(): Trying to get DOM from driver
+2020-05-04 19:15:05.166 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.selenium.capture.DomCapture.parseScriptResult(): missing css count: 3
+2020-05-04 19:15:05.166 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.selenium.capture.DomCapture.parseScriptResult(): missing frames count: 2
+2020-05-04 19:15:05.166 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.selenium.capture.DomCapture.fetchCssFiles(): DomCapture.fetchCssFiles() downloading
+2020-05-04 19:15:05.169 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.selenium.capture.DomCapture.downloadCss(): Given URL to download: https://fonts.googleapis.com/css?family=Lato:400,700,400italic,700italic&subset=latin
+2020-05-04 19:15:05.171 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.ServerConnector.downloadString(): Firing async GET
+2020-05-04 19:15:05.179 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.selenium.capture.DomCapture.fetchCssFiles(): DomCapture.fetchCssFiles() downloading
+2020-05-04 19:15:05.180 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.selenium.capture.DomCapture.downloadCss(): Given URL to download: https://ui.cogmento.com/fonts/fonts.css
+2020-05-04 19:15:05.181 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.ServerConnector.downloadString(): Firing async GET
+2020-05-04 19:15:05.182 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.selenium.capture.DomCapture.fetchCssFiles(): DomCapture.fetchCssFiles() downloading
+2020-05-04 19:15:05.182 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.selenium.capture.DomCapture.downloadCss(): Given URL to download: https://onesignal.com/sdks/OneSignalSDKStyles.css?v=1
+2020-05-04 19:15:05.183 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.ServerConnector.downloadString(): Firing async GET
+2020-05-04 19:15:05.192 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.selenium.wrappers.EyesWebDriver.getUserAgent(): user agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36
+2020-05-04 19:15:05.193 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.selenium.positioning.ScrollPositionProvider.<init>(): creating ScrollPositionProvider
+2020-05-04 19:15:05.193 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.selenium.capture.DomCapture.recurseFrames(): Switching to frame line :HTML[1]/BODY[1]/IFRAME[1]
+2020-05-04 19:15:05.201 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.selenium.capture.DomCapture.recurseFrames(): switching to specific frame : HTML[1]/BODY[1]/IFRAME[1]
+2020-05-04 19:15:05.234 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.selenium.capture.DomCapture.recurseFrames(): Switched to frame(HTML[1]/BODY[1]/IFRAME[1]) with src(https://platform.twitter.com/widgets/widget_iframe.c63890edc4243ee77048d507b181eeec.html?origin=https%3A%2F%2Fui.cogmento.com)
+2020-05-04 19:15:05.234 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.selenium.wrappers.EyesTargetLocator.frame(): Making preparations...
+2020-05-04 19:15:05.304 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.selenium.frames.Frame.<init>(): Frame(logger, reference, (0, 0), 300x150, 0x0, (0, 0))
+2020-05-04 19:15:05.304 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.selenium.wrappers.EyesTargetLocator.frame(): Done! Switching to frame...
+2020-05-04 19:15:05.319 Eyes: [VERBOSE] {00000251813666695076} [27] com.applitools.eyes.selenium.capture.DomCapture$2.onDownloadComplete(): Download Complete
+2020-05-04 19:15:05.320 Eyes: [VERBOSE] {00000251813666695076} [27] com.applitools.eyes.selenium.capture.DomCapture$1.onDownloadComplete(): DomCapture.onDownloadComplete  - finished
+2020-05-04 19:15:05.328 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.selenium.wrappers.EyesTargetLocator.frame(): Done!
+2020-05-04 19:15:05.334 Eyes: [VERBOSE] {00000251813666695076} [25] com.applitools.eyes.selenium.capture.DomCapture$2.onDownloadComplete(): Download Complete
+2020-05-04 19:15:05.335 Eyes: [VERBOSE] {00000251813666695076} [25] com.applitools.eyes.selenium.capture.DomCapture$1.onDownloadComplete(): DomCapture.onDownloadComplete  - finished
+2020-05-04 19:15:05.337 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.selenium.capture.DomCapture.getFrameDom(): Trying to get DOM from driver
+2020-05-04 19:15:05.409 Eyes: [VERBOSE] {00000251813666695076} [26] com.applitools.eyes.selenium.capture.DomCapture$2.onDownloadComplete(): Download Complete
+2020-05-04 19:15:05.409 Eyes: [VERBOSE] {00000251813666695076} [26] com.applitools.eyes.selenium.capture.DomCapture$1.onDownloadComplete(): DomCapture.onDownloadComplete  - finished
+2020-05-04 19:15:05.469 Eyes: [VERBOSE] {00000251813666695076} [26] com.applitools.eyes.selenium.capture.DomCapture$2.onDownloadComplete(): cssPhaser.arriveAndDeregister(); https://ui.cogmento.com/fonts/fonts.css
+2020-05-04 19:15:05.469 Eyes: [VERBOSE] {00000251813666695076} [26] com.applitools.eyes.selenium.capture.DomCapture$2.onDownloadComplete(): current missing - 2
+2020-05-04 19:15:05.469 Eyes: [VERBOSE] {00000251813666695076} [26] com.applitools.eyes.ServerConnector$2.completed(): response finished
+2020-05-04 19:15:05.496 Eyes: [VERBOSE] {00000251813666695076} [25] com.applitools.eyes.selenium.capture.DomCapture$2.onDownloadComplete(): cssPhaser.arriveAndDeregister(); https://fonts.googleapis.com/css?family=Lato:400,700,400italic,700italic&subset=latin
+2020-05-04 19:15:05.496 Eyes: [VERBOSE] {00000251813666695076} [25] com.applitools.eyes.selenium.capture.DomCapture$2.onDownloadComplete(): current missing - 1
+2020-05-04 19:15:05.496 Eyes: [VERBOSE] {00000251813666695076} [25] com.applitools.eyes.ServerConnector$2.completed(): response finished
+2020-05-04 19:15:05.619 Eyes: [VERBOSE] {00000251813666695076} [27] com.applitools.eyes.selenium.capture.DomCapture$2.onDownloadComplete(): cssPhaser.arriveAndDeregister(); https://onesignal.com/sdks/OneSignalSDKStyles.css?v=1
+2020-05-04 19:15:05.619 Eyes: [VERBOSE] {00000251813666695076} [27] com.applitools.eyes.selenium.capture.DomCapture$2.onDownloadComplete(): current missing - 0
+2020-05-04 19:15:05.619 Eyes: [VERBOSE] {00000251813666695076} [27] com.applitools.eyes.ServerConnector$2.completed(): response finished
+2020-05-04 19:15:05.776 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.selenium.capture.DomCapture.parseScriptResult(): missing css count: 0
+2020-05-04 19:15:05.776 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.selenium.capture.DomCapture.parseScriptResult(): missing frames count: 0
+2020-05-04 19:15:05.784 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.selenium.wrappers.EyesWebDriver.getUserAgent(): user agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36
+2020-05-04 19:15:05.784 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.selenium.positioning.ScrollPositionProvider.<init>(): creating ScrollPositionProvider
+2020-05-04 19:15:05.785 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.selenium.wrappers.EyesTargetLocator.frames(): enter
+2020-05-04 19:15:05.785 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.selenium.wrappers.EyesTargetLocator.defaultContent(): enter
+2020-05-04 19:15:05.785 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.selenium.wrappers.EyesTargetLocator.defaultContent(): Making preparations...
+2020-05-04 19:15:05.785 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.selenium.wrappers.EyesTargetLocator.defaultContent(): Done! Switching to default content...
+2020-05-04 19:15:05.791 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.selenium.wrappers.EyesTargetLocator.defaultContent(): Done!
+2020-05-04 19:15:05.792 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.selenium.wrappers.EyesTargetLocator.frames(): Done switching into nested frames!
+2020-05-04 19:15:05.792 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.selenium.capture.DomCapture.recurseFrames(): Switching to frame line :HTML[1]/BODY[1]/IFRAME[2]
+2020-05-04 19:15:05.799 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.selenium.capture.DomCapture.recurseFrames(): switching to specific frame : HTML[1]/BODY[1]/IFRAME[2]
+2020-05-04 19:15:05.823 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.selenium.capture.DomCapture.recurseFrames(): Switched to frame(HTML[1]/BODY[1]/IFRAME[2]) with src(https://onesignal.com/webPushAnalytics)
+2020-05-04 19:15:05.823 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.selenium.wrappers.EyesTargetLocator.frame(): Making preparations...
+2020-05-04 19:15:05.862 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.selenium.frames.Frame.<init>(): Frame(logger, reference, (2, 2), 304x154, 0x0, (0, 0))
+2020-05-04 19:15:05.862 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.selenium.wrappers.EyesTargetLocator.frame(): Done! Switching to frame...
+2020-05-04 19:15:05.882 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.selenium.wrappers.EyesTargetLocator.frame(): Done!
+2020-05-04 19:15:05.890 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.selenium.capture.DomCapture.getFrameDom(): Trying to get DOM from driver
+2020-05-04 19:15:06.319 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.selenium.capture.DomCapture.parseScriptResult(): missing css count: 0
+2020-05-04 19:15:06.320 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.selenium.capture.DomCapture.parseScriptResult(): missing frames count: 0
+2020-05-04 19:15:06.328 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.selenium.wrappers.EyesWebDriver.getUserAgent(): user agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36
+2020-05-04 19:15:06.328 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.selenium.positioning.ScrollPositionProvider.<init>(): creating ScrollPositionProvider
+2020-05-04 19:15:06.328 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.selenium.wrappers.EyesTargetLocator.frames(): enter
+2020-05-04 19:15:06.329 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.selenium.wrappers.EyesTargetLocator.defaultContent(): enter
+2020-05-04 19:15:06.329 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.selenium.wrappers.EyesTargetLocator.defaultContent(): Making preparations...
+2020-05-04 19:15:06.329 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.selenium.wrappers.EyesTargetLocator.defaultContent(): Done! Switching to default content...
+2020-05-04 19:15:06.336 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.selenium.wrappers.EyesTargetLocator.defaultContent(): Done!
+2020-05-04 19:15:06.337 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.selenium.wrappers.EyesTargetLocator.frames(): Done switching into nested frames!
+2020-05-04 19:15:06.396 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.selenium.wrappers.EyesWebDriver.getUserAgent(): user agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36
+2020-05-04 19:15:06.396 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.selenium.positioning.ScrollPositionProvider.<init>(): creating ScrollPositionProvider
+2020-05-04 19:15:06.397 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.selenium.wrappers.EyesTargetLocator.frames(): enter
+2020-05-04 19:15:06.397 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.selenium.wrappers.EyesTargetLocator.defaultContent(): enter
+2020-05-04 19:15:06.404 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.selenium.wrappers.EyesTargetLocator.defaultContent(): Done!
+2020-05-04 19:15:06.404 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.selenium.wrappers.EyesTargetLocator.frames(): Done switching into nested frames!
+2020-05-04 19:15:06.433 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.selenium.positioning.ScrollPositionProvider.setPosition(): setting position of EyesRemoteWebElement:[[ChromeDriver: chrome on WINDOWS (21ef7ad0a7b97869ae8f010d54452157)] -> tag name: html] to (0, 0)
+2020-05-04 19:15:06.448 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.selenium.wrappers.EyesWebDriver.getUserAgent(): user agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36
+2020-05-04 19:15:06.449 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.selenium.positioning.ScrollPositionProvider.<init>(): creating ScrollPositionProvider
+2020-05-04 19:15:06.449 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.selenium.wrappers.EyesTargetLocator.frames(): enter
+2020-05-04 19:15:06.449 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.selenium.wrappers.EyesTargetLocator.defaultContent(): enter
+2020-05-04 19:15:06.457 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.selenium.wrappers.EyesTargetLocator.defaultContent(): Done!
+2020-05-04 19:15:06.457 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.selenium.wrappers.EyesTargetLocator.frames(): Done switching into nested frames!
+2020-05-04 19:15:07.221 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.EyesBase.tryCaptureAndPostDom(): domUrl: https://eyesapi.applitools.com/api/sessions/running/data/se%7ee406f111-7793-4a3a-b9d9-afd4701e7733?accessKey=gRtTfcnBs3EsKcaA8iOzmcj5ySXfzz2pzWXZLJntgjw110
+2020-05-04 19:15:07.221 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.selenium.wrappers.EyesTargetLocator.frames(): enter
+2020-05-04 19:15:07.221 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.selenium.wrappers.EyesTargetLocator.defaultContent(): enter
+2020-05-04 19:15:07.227 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.selenium.wrappers.EyesTargetLocator.defaultContent(): Done!
+2020-05-04 19:15:07.228 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.selenium.wrappers.EyesTargetLocator.frames(): Done switching into nested frames!
+2020-05-04 19:15:07.228 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.selenium.positioning.ScrollPositionProvider.setPosition(): setting position of EyesRemoteWebElement:[[ChromeDriver: chrome on WINDOWS (21ef7ad0a7b97869ae8f010d54452157)] -> tag name: html] to (0, 0)
+2020-05-04 19:15:07.233 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.selenium.wrappers.EyesTargetLocator.frames(): enter
+2020-05-04 19:15:07.233 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.selenium.wrappers.EyesTargetLocator.defaultContent(): enter
+2020-05-04 19:15:07.240 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.selenium.wrappers.EyesTargetLocator.defaultContent(): Done!
+2020-05-04 19:15:07.240 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.selenium.wrappers.EyesTargetLocator.frames(): Done switching into nested frames!
+2020-05-04 19:15:07.240 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.EyesBase.getAppOutputWithScreenshot(): Done getting screenshot!
+2020-05-04 19:15:07.241 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.EyesBase.getAppOutputWithScreenshot(): Compressing screenshot...
+2020-05-04 19:15:07.294 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.EyesBase.getAppOutputWithScreenshot(): Done! Getting title...
+2020-05-04 19:15:07.301 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.EyesBase.getAppOutputWithScreenshot(): Done!
+2020-05-04 19:15:07.302 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.EyesBase.getAppOutputWithScreenshot(): Done!
+2020-05-04 19:15:08.055 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.EyesBase.getAppOutputWithScreenshot(): getting screenshot...
+2020-05-04 19:15:08.063 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.selenium.wrappers.EyesWebDriver.getUserAgent(): user agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36
+2020-05-04 19:15:08.064 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.selenium.positioning.ScrollPositionProvider.<init>(): creating ScrollPositionProvider
+2020-05-04 19:15:08.064 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.selenium.wrappers.EyesTargetLocator.frames(): enter
+2020-05-04 19:15:08.064 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.selenium.wrappers.EyesTargetLocator.defaultContent(): enter
+2020-05-04 19:15:08.074 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.selenium.wrappers.EyesTargetLocator.defaultContent(): Done!
+2020-05-04 19:15:08.074 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.selenium.wrappers.EyesTargetLocator.frames(): Done switching into nested frames!
+2020-05-04 19:15:08.081 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.selenium.wrappers.EyesTargetLocator.frames(): enter
+2020-05-04 19:15:08.081 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.selenium.wrappers.EyesTargetLocator.defaultContent(): enter
+2020-05-04 19:15:08.088 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.selenium.wrappers.EyesTargetLocator.defaultContent(): Done!
+2020-05-04 19:15:08.089 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.selenium.wrappers.EyesTargetLocator.frames(): Done switching into nested frames!
+2020-05-04 19:15:08.097 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.selenium.SeleniumEyes.getFullPageScreenshot(): ForceFullPageScreenshot || stitchContent_ - enter
+2020-05-04 19:15:08.097 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.selenium.wrappers.EyesTargetLocator.frames(): enter
+2020-05-04 19:15:08.097 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.selenium.wrappers.EyesTargetLocator.defaultContent(): enter
+2020-05-04 19:15:08.104 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.selenium.wrappers.EyesTargetLocator.defaultContent(): Done!
+2020-05-04 19:15:08.104 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.selenium.wrappers.EyesTargetLocator.frames(): Done switching into nested frames!
+2020-05-04 19:15:08.104 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.selenium.positioning.ScrollPositionProvider.<init>(): creating ScrollPositionProvider
+2020-05-04 19:15:08.104 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.selenium.positioning.ScrollPositionProvider.<init>(): creating ScrollPositionProvider
+2020-05-04 19:15:08.104 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.selenium.SeleniumEyes.getFullPageScreenshot(): resetting originProvider location
+2020-05-04 19:15:08.104 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.selenium.positioning.ScrollPositionProvider.setPosition(): setting position of EyesRemoteWebElement:[[ChromeDriver: chrome on WINDOWS (21ef7ad0a7b97869ae8f010d54452157)] -> tag name: html] to (0, 0)
+2020-05-04 19:15:08.130 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.selenium.capture.FullPageCaptureAlgorithm.getStitchedRegion(): region: (0, 0) 1280x566, SCREENSHOT_AS_IS ; fullArea: (0, 0) 0x0, SCREENSHOT_AS_IS ; positionProvider: com.applitools.eyes.selenium.positioning.ScrollPositionProvider
+2020-05-04 19:15:08.148 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.selenium.capture.FullPageCaptureAlgorithm.getStitchedRegion(): region size: (0, 0) 1280x566, SCREENSHOT_AS_IS
+2020-05-04 19:15:08.249 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.selenium.capture.TakesScreenshotImageProvider.getImage(): Getting screenshot as base64...
+2020-05-04 19:15:08.622 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.selenium.wrappers.EyesWebDriver.normalizeRotation(): Trying to automatically normalize rotation...
+2020-05-04 19:15:08.686 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.selenium.capture.TakesScreenshotImageProvider.getImage(): Done getting base64! Creating BufferedImage...
+2020-05-04 19:15:08.705 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.selenium.capture.EyesWebDriverScreenshot.<init>(): enter
+2020-05-04 19:15:08.705 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.selenium.capture.EyesWebDriverScreenshot.<init>(): position provider: using CurrentFramePositionProvider: com.applitools.eyes.selenium.positioning.ScrollPositionProvider@353078df
+2020-05-04 19:15:08.706 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.selenium.positioning.ScrollPositionProvider.getEntireSize(): enter (scrollRootElement: EyesRemoteWebElement:[[ChromeDriver: chrome on WINDOWS (21ef7ad0a7b97869ae8f010d54452157)] -> tag name: html])
+2020-05-04 19:15:08.713 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.selenium.positioning.ScrollPositionProvider.getEntireSize(): ScrollPositionProvider - Entire size: 1280x566
+2020-05-04 19:15:08.719 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.selenium.capture.EyesWebDriverScreenshot.<init>(): Calculating frame window...
+2020-05-04 19:15:08.719 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.selenium.capture.EyesWebDriverScreenshot.<init>(): this.frameWindow: (0, 0) 1280x566, SCREENSHOT_AS_IS ; imageSizeAsRegion: (0, 0) 1920x849, SCREENSHOT_AS_IS
+2020-05-04 19:15:08.720 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.selenium.capture.EyesWebDriverScreenshot.<init>(): updated frameWindow: (0, 0) 1280x566, SCREENSHOT_AS_IS
+2020-05-04 19:15:08.720 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.selenium.capture.EyesWebDriverScreenshot.<init>(): Done!
+2020-05-04 19:15:08.720 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.selenium.capture.FullPageCaptureAlgorithm.getRegionInScreenshot(): Creating screenshot object...
+2020-05-04 19:15:08.720 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.selenium.capture.EyesWebDriverScreenshot.<init>(): enter
+2020-05-04 19:15:08.720 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.selenium.capture.EyesWebDriverScreenshot.<init>(): position provider: using CurrentFramePositionProvider: com.applitools.eyes.selenium.positioning.ScrollPositionProvider@353078df
+2020-05-04 19:15:08.720 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.selenium.positioning.ScrollPositionProvider.getEntireSize(): enter (scrollRootElement: EyesRemoteWebElement:[[ChromeDriver: chrome on WINDOWS (21ef7ad0a7b97869ae8f010d54452157)] -> tag name: html])
+2020-05-04 19:15:08.726 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.selenium.positioning.ScrollPositionProvider.getEntireSize(): ScrollPositionProvider - Entire size: 1280x566
+2020-05-04 19:15:08.732 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.selenium.capture.EyesWebDriverScreenshot.<init>(): Calculating frame window...
+2020-05-04 19:15:08.732 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.selenium.capture.EyesWebDriverScreenshot.<init>(): this.frameWindow: (0, 0) 1280x566, SCREENSHOT_AS_IS ; imageSizeAsRegion: (0, 0) 1920x849, SCREENSHOT_AS_IS
+2020-05-04 19:15:08.732 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.selenium.capture.EyesWebDriverScreenshot.<init>(): updated frameWindow: (0, 0) 1280x566, SCREENSHOT_AS_IS
+2020-05-04 19:15:08.732 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.selenium.capture.EyesWebDriverScreenshot.<init>(): Done!
+2020-05-04 19:15:08.732 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.selenium.capture.FullPageCaptureAlgorithm.getRegionInScreenshot(): Getting region in screenshot...
+2020-05-04 19:15:08.732 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.EyesScreenshot.convertRegionLocation(): original location: (0, 0)
+2020-05-04 19:15:08.733 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.EyesScreenshot.convertRegionLocation(): updated location: (0, 0)
+2020-05-04 19:15:08.733 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.EyesScreenshot.convertRegionLocation(): original location: (0, 0)
+2020-05-04 19:15:08.733 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.EyesScreenshot.convertRegionLocation(): updated location: (0, 0)
+2020-05-04 19:15:08.733 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.selenium.capture.FullPageCaptureAlgorithm.getRegionInScreenshot(): Region in screenshot: (0, 0) 1280x566, SCREENSHOT_AS_IS
+2020-05-04 19:15:08.733 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.selenium.capture.FullPageCaptureAlgorithm.getRegionInScreenshot(): Scaled region: (0, 0) 1920x849, SCREENSHOT_AS_IS
+2020-05-04 19:15:08.733 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.selenium.capture.FullPageCaptureAlgorithm.getRegionInScreenshot(): Region after intersect: (0, 0) 1920x849, SCREENSHOT_AS_IS
+2020-05-04 19:15:08.930 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.selenium.positioning.ScrollPositionProvider.getEntireSize(): enter (scrollRootElement: EyesRemoteWebElement:[[ChromeDriver: chrome on WINDOWS (21ef7ad0a7b97869ae8f010d54452157)] -> tag name: html])
+2020-05-04 19:15:08.941 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.selenium.positioning.ScrollPositionProvider.getEntireSize(): ScrollPositionProvider - Entire size: 1280x566
+2020-05-04 19:15:08.942 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.selenium.capture.FullPageCaptureAlgorithm.getStitchedRegion(): Entire size of region context: 1280x566
+2020-05-04 19:15:08.942 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.selenium.positioning.ScrollPositionProvider.setPosition(): setting position of EyesRemoteWebElement:[[ChromeDriver: chrome on WINDOWS (21ef7ad0a7b97869ae8f010d54452157)] -> tag name: html] to (0, 0)
+2020-05-04 19:15:08.949 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.selenium.wrappers.EyesTargetLocator.frames(): enter
+2020-05-04 19:15:08.949 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.selenium.wrappers.EyesTargetLocator.defaultContent(): enter
+2020-05-04 19:15:08.956 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.selenium.wrappers.EyesTargetLocator.defaultContent(): Done!
+2020-05-04 19:15:08.956 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.selenium.wrappers.EyesTargetLocator.frames(): Done switching into nested frames!
+2020-05-04 19:15:08.956 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.selenium.capture.EyesWebDriverScreenshot.<init>(): enter
+2020-05-04 19:15:08.956 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.selenium.capture.EyesWebDriverScreenshot.<init>(): position provider: using CurrentFramePositionProvider: com.applitools.eyes.selenium.positioning.ScrollPositionProvider@353078df
+2020-05-04 19:15:08.956 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.selenium.positioning.ScrollPositionProvider.getEntireSize(): enter (scrollRootElement: EyesRemoteWebElement:[[ChromeDriver: chrome on WINDOWS (21ef7ad0a7b97869ae8f010d54452157)] -> tag name: html])
+2020-05-04 19:15:08.964 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.selenium.positioning.ScrollPositionProvider.getEntireSize(): ScrollPositionProvider - Entire size: 1280x566
+2020-05-04 19:15:08.969 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.selenium.capture.EyesWebDriverScreenshot.<init>(): Calculating frame window...
+2020-05-04 19:15:08.970 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.selenium.capture.EyesWebDriverScreenshot.<init>(): this.frameWindow: (0, 0) 1280x566, SCREENSHOT_AS_IS ; imageSizeAsRegion: (0, 0) 1280x566, SCREENSHOT_AS_IS
+2020-05-04 19:15:08.970 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.selenium.capture.EyesWebDriverScreenshot.<init>(): updated frameWindow: (0, 0) 1280x566, SCREENSHOT_AS_IS
+2020-05-04 19:15:08.970 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.selenium.capture.EyesWebDriverScreenshot.<init>(): Done!
+2020-05-04 19:15:08.970 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.selenium.wrappers.EyesTargetLocator.frames(): enter
+2020-05-04 19:15:08.970 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.selenium.wrappers.EyesTargetLocator.defaultContent(): enter
+2020-05-04 19:15:08.977 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.selenium.wrappers.EyesTargetLocator.defaultContent(): Done!
+2020-05-04 19:15:08.977 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.selenium.wrappers.EyesTargetLocator.frames(): Done switching into nested frames!
+2020-05-04 19:15:08.992 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.selenium.positioning.ScrollPositionProvider.<init>(): creating ScrollPositionProvider
+2020-05-04 19:15:09.001 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.selenium.positioning.ScrollPositionProvider.setPosition(): setting position of EyesRemoteWebElement:[[ChromeDriver: chrome on WINDOWS (21ef7ad0a7b97869ae8f010d54452157)] -> tag name: html] to (0, 0)
+2020-05-04 19:15:09.007 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.selenium.capture.DomCapture.getFrameDom(): Trying to get DOM from driver
+2020-05-04 19:15:09.617 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.selenium.capture.DomCapture.parseScriptResult(): missing css count: 3
+2020-05-04 19:15:09.617 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.selenium.capture.DomCapture.parseScriptResult(): missing frames count: 2
+2020-05-04 19:15:09.617 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.selenium.capture.DomCapture.fetchCssFiles(): DomCapture.fetchCssFiles() downloading
+2020-05-04 19:15:09.618 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.selenium.capture.DomCapture.downloadCss(): Given URL to download: https://fonts.googleapis.com/css?family=Lato:400,700,400italic,700italic&subset=latin
+2020-05-04 19:15:09.618 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.ServerConnector.downloadString(): Firing async GET
+2020-05-04 19:15:09.619 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.selenium.capture.DomCapture.fetchCssFiles(): DomCapture.fetchCssFiles() downloading
+2020-05-04 19:15:09.619 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.selenium.capture.DomCapture.downloadCss(): Given URL to download: https://ui.cogmento.com/fonts/fonts.css
+2020-05-04 19:15:09.620 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.ServerConnector.downloadString(): Firing async GET
+2020-05-04 19:15:09.620 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.selenium.capture.DomCapture.fetchCssFiles(): DomCapture.fetchCssFiles() downloading
+2020-05-04 19:15:09.620 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.selenium.capture.DomCapture.downloadCss(): Given URL to download: https://onesignal.com/sdks/OneSignalSDKStyles.css?v=1
+2020-05-04 19:15:09.621 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.ServerConnector.downloadString(): Firing async GET
+2020-05-04 19:15:09.628 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.selenium.wrappers.EyesWebDriver.getUserAgent(): user agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36
+2020-05-04 19:15:09.628 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.selenium.positioning.ScrollPositionProvider.<init>(): creating ScrollPositionProvider
+2020-05-04 19:15:09.628 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.selenium.capture.DomCapture.recurseFrames(): Switching to frame line :HTML[1]/BODY[1]/IFRAME[1]
+2020-05-04 19:15:09.633 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.selenium.capture.DomCapture.recurseFrames(): switching to specific frame : HTML[1]/BODY[1]/IFRAME[1]
+2020-05-04 19:15:09.651 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.selenium.capture.DomCapture.recurseFrames(): Switched to frame(HTML[1]/BODY[1]/IFRAME[1]) with src(https://platform.twitter.com/widgets/widget_iframe.c63890edc4243ee77048d507b181eeec.html?origin=https%3A%2F%2Fui.cogmento.com)
+2020-05-04 19:15:09.652 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.selenium.wrappers.EyesTargetLocator.frame(): Making preparations...
+2020-05-04 19:15:09.674 Eyes: [VERBOSE] {00000251813666695076} [32] com.applitools.eyes.ServerConnector$2.failed(): Async GET failed - entering retry
+2020-05-04 19:15:09.675 Eyes: [VERBOSE] {00000251813666695076} [32] com.applitools.eyes.ServerConnector.downloadString(): Firing async GET
+2020-05-04 19:15:09.686 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.selenium.frames.Frame.<init>(): Frame(logger, reference, (0, 0), 300x150, 0x0, (0, 0))
+2020-05-04 19:15:09.687 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.selenium.wrappers.EyesTargetLocator.frame(): Done! Switching to frame...
+2020-05-04 19:15:09.705 Eyes: [VERBOSE] {00000251813666695076} [33] com.applitools.eyes.selenium.capture.DomCapture$2.onDownloadComplete(): Download Complete
+2020-05-04 19:15:09.705 Eyes: [VERBOSE] {00000251813666695076} [33] com.applitools.eyes.selenium.capture.DomCapture$1.onDownloadComplete(): DomCapture.onDownloadComplete  - finished
+2020-05-04 19:15:09.706 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.selenium.wrappers.EyesTargetLocator.frame(): Done!
+2020-05-04 19:15:09.712 Eyes: [VERBOSE] {00000251813666695076} [31] com.applitools.eyes.selenium.capture.DomCapture$2.onDownloadComplete(): Download Complete
+2020-05-04 19:15:09.712 Eyes: [VERBOSE] {00000251813666695076} [31] com.applitools.eyes.selenium.capture.DomCapture$1.onDownloadComplete(): DomCapture.onDownloadComplete  - finished
+2020-05-04 19:15:09.714 Eyes: [VERBOSE] {00000251813666695076} [31] com.applitools.eyes.selenium.capture.DomCapture$2.onDownloadComplete(): cssPhaser.arriveAndDeregister(); https://fonts.googleapis.com/css?family=Lato:400,700,400italic,700italic&subset=latin
+2020-05-04 19:15:09.714 Eyes: [VERBOSE] {00000251813666695076} [31] com.applitools.eyes.selenium.capture.DomCapture$2.onDownloadComplete(): current missing - 2
+2020-05-04 19:15:09.714 Eyes: [VERBOSE] {00000251813666695076} [31] com.applitools.eyes.ServerConnector$2.completed(): response finished
+2020-05-04 19:15:09.714 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.selenium.capture.DomCapture.getFrameDom(): Trying to get DOM from driver
+2020-05-04 19:15:09.750 Eyes: [VERBOSE] {00000251813666695076} [33] com.applitools.eyes.selenium.capture.DomCapture$2.onDownloadComplete(): cssPhaser.arriveAndDeregister(); https://onesignal.com/sdks/OneSignalSDKStyles.css?v=1
+2020-05-04 19:15:09.750 Eyes: [VERBOSE] {00000251813666695076} [33] com.applitools.eyes.selenium.capture.DomCapture$2.onDownloadComplete(): current missing - 1
+2020-05-04 19:15:09.750 Eyes: [VERBOSE] {00000251813666695076} [33] com.applitools.eyes.ServerConnector$2.completed(): response finished
+2020-05-04 19:15:09.861 Eyes: [VERBOSE] {00000251813666695076} [34] com.applitools.eyes.selenium.capture.DomCapture$2.onDownloadComplete(): Download Complete
+2020-05-04 19:15:09.861 Eyes: [VERBOSE] {00000251813666695076} [34] com.applitools.eyes.selenium.capture.DomCapture$1.onDownloadComplete(): DomCapture.onDownloadComplete  - finished
+2020-05-04 19:15:09.861 Eyes: [VERBOSE] {00000251813666695076} [34] com.applitools.eyes.selenium.capture.DomCapture$2.onDownloadComplete(): cssPhaser.arriveAndDeregister(); https://ui.cogmento.com/fonts/fonts.css
+2020-05-04 19:15:09.861 Eyes: [VERBOSE] {00000251813666695076} [34] com.applitools.eyes.selenium.capture.DomCapture$2.onDownloadComplete(): current missing - 0
+2020-05-04 19:15:09.862 Eyes: [VERBOSE] {00000251813666695076} [34] com.applitools.eyes.ServerConnector$2.completed(): response finished
+2020-05-04 19:15:10.143 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.selenium.capture.DomCapture.parseScriptResult(): missing css count: 0
+2020-05-04 19:15:10.144 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.selenium.capture.DomCapture.parseScriptResult(): missing frames count: 0
+2020-05-04 19:15:10.150 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.selenium.wrappers.EyesWebDriver.getUserAgent(): user agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36
+2020-05-04 19:15:10.151 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.selenium.positioning.ScrollPositionProvider.<init>(): creating ScrollPositionProvider
+2020-05-04 19:15:10.151 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.selenium.wrappers.EyesTargetLocator.frames(): enter
+2020-05-04 19:15:10.151 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.selenium.wrappers.EyesTargetLocator.defaultContent(): enter
+2020-05-04 19:15:10.151 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.selenium.wrappers.EyesTargetLocator.defaultContent(): Making preparations...
+2020-05-04 19:15:10.151 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.selenium.wrappers.EyesTargetLocator.defaultContent(): Done! Switching to default content...
+2020-05-04 19:15:10.158 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.selenium.wrappers.EyesTargetLocator.defaultContent(): Done!
+2020-05-04 19:15:10.158 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.selenium.wrappers.EyesTargetLocator.frames(): Done switching into nested frames!
+2020-05-04 19:15:10.158 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.selenium.capture.DomCapture.recurseFrames(): Switching to frame line :HTML[1]/BODY[1]/IFRAME[2]
+2020-05-04 19:15:10.165 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.selenium.capture.DomCapture.recurseFrames(): switching to specific frame : HTML[1]/BODY[1]/IFRAME[2]
+2020-05-04 19:15:10.183 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.selenium.capture.DomCapture.recurseFrames(): Switched to frame(HTML[1]/BODY[1]/IFRAME[2]) with src(https://onesignal.com/webPushAnalytics)
+2020-05-04 19:15:10.183 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.selenium.wrappers.EyesTargetLocator.frame(): Making preparations...
+2020-05-04 19:15:10.212 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.selenium.frames.Frame.<init>(): Frame(logger, reference, (2, 2), 304x154, 0x0, (0, 0))
+2020-05-04 19:15:10.212 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.selenium.wrappers.EyesTargetLocator.frame(): Done! Switching to frame...
+2020-05-04 19:15:10.228 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.selenium.wrappers.EyesTargetLocator.frame(): Done!
+2020-05-04 19:15:10.234 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.selenium.capture.DomCapture.getFrameDom(): Trying to get DOM from driver
+2020-05-04 19:15:10.662 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.selenium.capture.DomCapture.parseScriptResult(): missing css count: 0
+2020-05-04 19:15:10.662 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.selenium.capture.DomCapture.parseScriptResult(): missing frames count: 0
+2020-05-04 19:15:10.668 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.selenium.wrappers.EyesWebDriver.getUserAgent(): user agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36
+2020-05-04 19:15:10.668 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.selenium.positioning.ScrollPositionProvider.<init>(): creating ScrollPositionProvider
+2020-05-04 19:15:10.669 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.selenium.wrappers.EyesTargetLocator.frames(): enter
+2020-05-04 19:15:10.669 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.selenium.wrappers.EyesTargetLocator.defaultContent(): enter
+2020-05-04 19:15:10.669 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.selenium.wrappers.EyesTargetLocator.defaultContent(): Making preparations...
+2020-05-04 19:15:10.669 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.selenium.wrappers.EyesTargetLocator.defaultContent(): Done! Switching to default content...
+2020-05-04 19:15:10.674 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.selenium.wrappers.EyesTargetLocator.defaultContent(): Done!
+2020-05-04 19:15:10.674 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.selenium.wrappers.EyesTargetLocator.frames(): Done switching into nested frames!
+2020-05-04 19:15:10.686 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.selenium.wrappers.EyesWebDriver.getUserAgent(): user agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36
+2020-05-04 19:15:10.686 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.selenium.positioning.ScrollPositionProvider.<init>(): creating ScrollPositionProvider
+2020-05-04 19:15:10.686 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.selenium.wrappers.EyesTargetLocator.frames(): enter
+2020-05-04 19:15:10.687 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.selenium.wrappers.EyesTargetLocator.defaultContent(): enter
+2020-05-04 19:15:10.691 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.selenium.wrappers.EyesTargetLocator.defaultContent(): Done!
+2020-05-04 19:15:10.691 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.selenium.wrappers.EyesTargetLocator.frames(): Done switching into nested frames!
+2020-05-04 19:15:10.736 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.selenium.positioning.ScrollPositionProvider.setPosition(): setting position of EyesRemoteWebElement:[[ChromeDriver: chrome on WINDOWS (21ef7ad0a7b97869ae8f010d54452157)] -> tag name: html] to (0, 0)
+2020-05-04 19:15:10.747 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.selenium.wrappers.EyesWebDriver.getUserAgent(): user agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36
+2020-05-04 19:15:10.748 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.selenium.positioning.ScrollPositionProvider.<init>(): creating ScrollPositionProvider
+2020-05-04 19:15:10.748 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.selenium.wrappers.EyesTargetLocator.frames(): enter
+2020-05-04 19:15:10.748 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.selenium.wrappers.EyesTargetLocator.defaultContent(): enter
+2020-05-04 19:15:10.755 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.selenium.wrappers.EyesTargetLocator.defaultContent(): Done!
+2020-05-04 19:15:10.756 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.selenium.wrappers.EyesTargetLocator.frames(): Done switching into nested frames!
+2020-05-04 19:15:11.528 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.EyesBase.tryCaptureAndPostDom(): domUrl: https://eyesapi.applitools.com/api/sessions/running/data/se%7ec428eeaa-3068-4021-ae78-7558bee75405?accessKey=gRtTfcnBs3EsKcaA8iOzmcj5ySXfzz2pzWXZLJntgjw110
+2020-05-04 19:15:11.528 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.selenium.wrappers.EyesTargetLocator.frames(): enter
+2020-05-04 19:15:11.528 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.selenium.wrappers.EyesTargetLocator.defaultContent(): enter
+2020-05-04 19:15:11.535 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.selenium.wrappers.EyesTargetLocator.defaultContent(): Done!
+2020-05-04 19:15:11.535 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.selenium.wrappers.EyesTargetLocator.frames(): Done switching into nested frames!
+2020-05-04 19:15:11.535 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.selenium.positioning.ScrollPositionProvider.setPosition(): setting position of EyesRemoteWebElement:[[ChromeDriver: chrome on WINDOWS (21ef7ad0a7b97869ae8f010d54452157)] -> tag name: html] to (0, 0)
+2020-05-04 19:15:11.541 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.selenium.wrappers.EyesTargetLocator.frames(): enter
+2020-05-04 19:15:11.541 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.selenium.wrappers.EyesTargetLocator.defaultContent(): enter
+2020-05-04 19:15:11.548 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.selenium.wrappers.EyesTargetLocator.defaultContent(): Done!
+2020-05-04 19:15:11.548 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.selenium.wrappers.EyesTargetLocator.frames(): Done switching into nested frames!
+2020-05-04 19:15:11.548 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.EyesBase.getAppOutputWithScreenshot(): Done getting screenshot!
+2020-05-04 19:15:11.548 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.EyesBase.getAppOutputWithScreenshot(): Compressing screenshot...
+2020-05-04 19:15:11.587 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.EyesBase.getAppOutputWithScreenshot(): Done! Getting title...
+2020-05-04 19:15:11.593 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.EyesBase.getAppOutputWithScreenshot(): Done!
+2020-05-04 19:15:11.593 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.EyesBase.getAppOutputWithScreenshot(): Done!
+2020-05-04 19:15:12.303 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.MatchWindowTask.takeScreenshot(): Completed in 9.00 seconds
+2020-05-04 19:15:12.304 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.EyesBase.checkWindowBase(): MatchWindow Done!
+2020-05-04 19:15:12.304 Eyes: [LOG    ] {00000251813666695076} [1] com.applitools.eyes.EyesBase.validateResult(): Mismatch! (Opening browser)
+2020-05-04 19:15:12.304 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.EyesBase.checkWindowBase(): Done!
+2020-05-04 19:15:12.304 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.selenium.wrappers.EyesTargetLocator.frames(): enter
+2020-05-04 19:15:12.304 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.selenium.wrappers.EyesTargetLocator.defaultContent(): enter
+2020-05-04 19:15:12.310 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.selenium.wrappers.EyesTargetLocator.defaultContent(): Done!
+2020-05-04 19:15:12.310 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.selenium.wrappers.EyesTargetLocator.frames(): Done switching into nested frames!
+2020-05-04 19:15:12.310 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.selenium.wrappers.EyesTargetLocator.resetScroll(): enter
+2020-05-04 19:15:12.316 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.selenium.wrappers.EyesWebDriver.getUserAgent(): user agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36
+2020-05-04 19:15:12.316 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.selenium.positioning.ScrollPositionProvider.<init>(): creating ScrollPositionProvider
+2020-05-04 19:15:12.316 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.selenium.wrappers.EyesTargetLocator.frames(): enter
+2020-05-04 19:15:12.316 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.selenium.wrappers.EyesTargetLocator.defaultContent(): enter
+2020-05-04 19:15:12.322 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.selenium.wrappers.EyesTargetLocator.defaultContent(): Done!
+2020-05-04 19:15:12.322 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.selenium.wrappers.EyesTargetLocator.frames(): Done switching into nested frames!
+2020-05-04 19:15:12.322 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.selenium.SeleniumEyes.tryRestoreScrollbars(): returning overflow of element to its original value: EyesRemoteWebElement:[[ChromeDriver: chrome on WINDOWS (21ef7ad0a7b97869ae8f010d54452157)] -> tag name: html]
+2020-05-04 19:15:12.537 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.selenium.wrappers.EyesWebDriver.getUserAgent(): user agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36
+2020-05-04 19:15:12.537 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.selenium.positioning.ScrollPositionProvider.<init>(): creating ScrollPositionProvider
+2020-05-04 19:15:12.538 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.selenium.wrappers.EyesTargetLocator.frames(): enter
+2020-05-04 19:15:12.538 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.selenium.wrappers.EyesTargetLocator.defaultContent(): enter
+2020-05-04 19:15:12.543 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.selenium.wrappers.EyesTargetLocator.defaultContent(): Done!
+2020-05-04 19:15:12.543 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.selenium.wrappers.EyesTargetLocator.frames(): Done switching into nested frames!
+2020-05-04 19:15:12.544 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.selenium.SeleniumEyes.tryRestoreScrollbars(): done restoring scrollbars.
+2020-05-04 19:15:12.544 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.selenium.wrappers.EyesTargetLocator.frames(): enter
+2020-05-04 19:15:12.544 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.selenium.wrappers.EyesTargetLocator.defaultContent(): enter
+2020-05-04 19:15:12.548 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.selenium.wrappers.EyesTargetLocator.defaultContent(): Done!
+2020-05-04 19:15:12.548 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.selenium.wrappers.EyesTargetLocator.frames(): Done switching into nested frames!
+2020-05-04 19:15:12.549 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.selenium.SeleniumEyes.check(): check - done!
+2020-05-04 19:15:12.549 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.EyesBase.close(): close(true)
+2020-05-04 19:15:12.549 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.EyesBase.close(): Ending server session...
+2020-05-04 19:15:12.549 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.EyesBase.close(): Automatically save test? false
+2020-05-04 19:15:12.915 Eyes: [VERBOSE] {00000251813666695076} [1] com.applitools.eyes.EyesBase.close(): Existing test [ steps: 1, test name: Google, matches: 0, mismatches:1, missing: 0] , URL: https://eyes.applitools.com/app/batches/00000251813666695279/00000251813666695076?accountId=FusxJrz59k2ijdO5_dXVGg~~
+2020-05-04 19:15:12.915 Eyes: [LOG    ] {00000251813666695076} [1] com.applitools.eyes.EyesBase.logSessionResultsAndThrowException(): --- Failed test ended. See details at https://eyes.applitools.com/app/batches/00000251813666695279/00000251813666695076?accountId=FusxJrz59k2ijdO5_dXVGg~~
